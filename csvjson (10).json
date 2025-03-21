@@ -1,0 +1,6988 @@
+[
+  {
+    "Category": "Emergency",
+    "English": "Help me!",
+    "English in Hangul": "헬프 미!",
+    "Korean": "도와주세요!",
+    "Transliteration": "Dowajuseyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m sick",
+    "English in Hangul": "아임 식",
+    "Korean": "저 아파요",
+    "Transliteration": "Jeo apayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Call the police!",
+    "English in Hangul": "콜 더 폴리스!",
+    "Korean": "경찰을 불러요!",
+    "Transliteration": "Gyeongchareul bulleoyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m hurt",
+    "English in Hangul": "아임 허트",
+    "Korean": "저 다쳤어요",
+    "Transliteration": "Jeo dachyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Fire!",
+    "English in Hangul": "파이어!",
+    "Korean": "불이야!",
+    "Transliteration": "Bul-iya!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need a doctor",
+    "English in Hangul": "아이 니드 어 닥터",
+    "Korean": "의사가 필요해요",
+    "Transliteration": "Uisaga piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "It’s urgent!",
+    "English in Hangul": "잇츠 어전트!",
+    "Korean": "급해요!",
+    "Transliteration": "Geupaeyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m lost",
+    "English in Hangul": "아임 로스트",
+    "Korean": "길을 잃었어요",
+    "Transliteration": "Gireul ilheosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Stop!",
+    "English in Hangul": "스탑!",
+    "Korean": "멈춰요!",
+    "Transliteration": "Meomchwoyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Save me!",
+    "English in Hangul": "세이브 미!",
+    "Korean": "구해주세요!",
+    "Transliteration": "Guhaejuseyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I can’t breathe",
+    "English in Hangul": "아이 캔트 브리드",
+    "Korean": "숨을 쉴 수 없어요",
+    "Transliteration": "Sumeul swil su eopseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s an accident",
+    "English in Hangul": "데어스 앤 액시던트",
+    "Korean": "사고가 났어요",
+    "Transliteration": "Sagoga nasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m bleeding",
+    "English in Hangul": "아임 블리딩",
+    "Korean": "피가 나요",
+    "Transliteration": "Piga nayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Call an ambulance!",
+    "English in Hangul": "콜 앤 앰뷸런스!",
+    "Korean": "구급차를 불러요!",
+    "Transliteration": "Gugeupchareul bulleoyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "It hurts here",
+    "English in Hangul": "잇 허츠 히어",
+    "Korean": "여기가 아파요",
+    "Transliteration": "Yeogiga apayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m trapped",
+    "English in Hangul": "아임 트랩드",
+    "Korean": "갇혔어요",
+    "Transliteration": "Gathyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Help my friend!",
+    "English in Hangul": "헬프 마이 프렌드!",
+    "Korean": "제 친구를 도와주세요!",
+    "Transliteration": "Je chingureul dowajuseyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Someone’s hurt",
+    "English in Hangul": "썸원스 허트",
+    "Korean": "누군가 다쳤어요",
+    "Transliteration": "Nugunga dachyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need help now",
+    "English in Hangul": "아이 니드 헬프 나우",
+    "Korean": "지금 도움 필요해요",
+    "Transliteration": "Jigeum doum piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Don’t move!",
+    "English in Hangul": "돈트 무브!",
+    "Korean": "움직이지 마세요!",
+    "Transliteration": "Umjigiji maseyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m in danger",
+    "English in Hangul": "아임 인 데인저",
+    "Korean": "위험해요",
+    "Transliteration": "Wiheomhaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a flood",
+    "English in Hangul": "데어스 어 플러드",
+    "Korean": "홍수가 났어요",
+    "Transliteration": "Hongsuga nasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m freezing",
+    "English in Hangul": "아임 프리징",
+    "Korean": "너무 추워요",
+    "Transliteration": "Neomu chuwoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m overheating",
+    "English in Hangul": "아임 오버히팅",
+    "Korean": "너무 더워요",
+    "Transliteration": "Neomu deowoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "My leg hurts",
+    "English in Hangul": "마이 레그 허츠",
+    "Korean": "다리가 아파요",
+    "Transliteration": "Dariga apayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "My head hurts",
+    "English in Hangul": "마이 헤드 허츠",
+    "Korean": "머리가 아파요",
+    "Transliteration": "Meoriga apayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I broke my arm",
+    "English in Hangul": "아이 브로크 마이 암",
+    "Korean": "팔이 부러졌어요",
+    "Transliteration": "Pari bureojyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I can’t move",
+    "English in Hangul": "아이 캔트 무브",
+    "Korean": "움직일 수 없어요",
+    "Transliteration": "Umjigil su eopseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a fire",
+    "English in Hangul": "데어스 어 파이어",
+    "Korean": "불이 났어요",
+    "Transliteration": "Buri nasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Get help!",
+    "English in Hangul": "겟 헬프!",
+    "Korean": "도움을 구해요!",
+    "Transliteration": "Doumeul guhaeyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m scared",
+    "English in Hangul": "아임 스케어드",
+    "Korean": "무서워요",
+    "Transliteration": "Museowoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need water",
+    "English in Hangul": "아이 니드 워터",
+    "Korean": "물이 필요해요",
+    "Transliteration": "Muri piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m choking",
+    "English in Hangul": "아임 초킹",
+    "Korean": "질식하고 있어요",
+    "Transliteration": "Jilsikhago isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Call 911!",
+    "English in Hangul": "콜 나인 원 원!",
+    "Korean": "119에 전화해요!",
+    "Transliteration": "Ilgugonge jeonhwahaeyo!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "It’s an emergency",
+    "English in Hangul": "잇츠 앤 이머전시",
+    "Korean": "응급 상황이에요",
+    "Transliteration": "Eunggeup sanghwang-ieyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I fell down",
+    "English in Hangul": "아이 펠 다운",
+    "Korean": "넘어졌어요",
+    "Transliteration": "Neomeojyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "My chest hurts",
+    "English in Hangul": "마이 체스트 허츠",
+    "Korean": "가슴이 아파요",
+    "Transliteration": "Gaseumi apayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m dizzy",
+    "English in Hangul": "아임 디지",
+    "Korean": "어지러워요",
+    "Transliteration": "Eojireowoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m having a heart attack",
+    "English in Hangul": "아임 해빙 어 하트 어택",
+    "Korean": "심장마비가 왔어요",
+    "Transliteration": "Simjangmabiga wasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a thief",
+    "English in Hangul": "데어스 어 씨프",
+    "Korean": "도둑이 있어요",
+    "Transliteration": "Dodugi isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been robbed",
+    "English in Hangul": "아이브 빈 라브드",
+    "Korean": "도둑맞았어요",
+    "Transliteration": "Dodungmatasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Someone’s drowning",
+    "English in Hangul": "썸원스 드라우닝",
+    "Korean": "누군가 물에 빠졌어요",
+    "Transliteration": "Nugunga mure ppajyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The building’s collapsing",
+    "English in Hangul": "더 빌딩스 컬랩싱",
+    "Korean": "건물이 무너지고 있어요",
+    "Transliteration": "Geonmuri muneojigo isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m stuck",
+    "English in Hangul": "아임 스턱",
+    "Korean": "꼼짝 못해요",
+    "Transliteration": "Kkomjjak mothaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s an earthquake",
+    "English in Hangul": "데어스 앤 어스퀘이크",
+    "Korean": "지진이야!",
+    "Transliteration": "Jijiniya!"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need a stretcher",
+    "English in Hangul": "아이 니드 어 스트레처",
+    "Korean": "들것이 필요해요",
+    "Transliteration": "Deulgeosi piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "My stomach hurts",
+    "English in Hangul": "마이 스토막 허츠",
+    "Korean": "배고프세요",
+    "Transliteration": "Baegopeuseyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been poisoned",
+    "English in Hangul": "아이브 빈 포이즌드",
+    "Korean": "독에 중독됐어요",
+    "Transliteration": "Doge jungdokdwaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a gas leak",
+    "English in Hangul": "데어스 어 가스 릭",
+    "Korean": "가스가 새고 있어요",
+    "Transliteration": "Gaseuga saego isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m allergic",
+    "English in Hangul": "아임 얼러직",
+    "Korean": "알레르기가 있어요",
+    "Transliteration": "Allereugiga isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need medicine",
+    "English in Hangul": "아이 니드 메디신",
+    "Korean": "약이 필요해요",
+    "Transliteration": "Yagi piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The car crashed",
+    "English in Hangul": "더 카 크래쉬드",
+    "Korean": "차가 충돌했어요",
+    "Transliteration": "Chaga chungdolhaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m having an attack",
+    "English in Hangul": "아임 해빙 앤 어택",
+    "Korean": "발작이 일어났어요",
+    "Transliteration": "Baljagi ireonasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a fight",
+    "English in Hangul": "데어스 어 파이트",
+    "Korean": "싸움이 났어요",
+    "Transliteration": "Ssaumi nasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been stabbed",
+    "English in Hangul": "아이브 빈 스탭드",
+    "Korean": "찔렸어요",
+    "Transliteration": "Jjillyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been shot",
+    "English in Hangul": "아이브 빈 샷",
+    "Korean": "총에 맞았어요",
+    "Transliteration": "Chonge majasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The bridge collapsed",
+    "English in Hangul": "더 브릿지 컬랩스드",
+    "Korean": "다리가 무너졌어요",
+    "Transliteration": "Dariga muneojyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m suffocating",
+    "English in Hangul": "아임 서퍼케이팅",
+    "Korean": "숨이 막혀요",
+    "Transliteration": "Sumi makyeoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a storm",
+    "English in Hangul": "데어스 어 스톰",
+    "Korean": "폭풍이 와요",
+    "Transliteration": "Pokpungi wayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need oxygen",
+    "English in Hangul": "아이 니드 옥시전",
+    "Korean": "산소가 필요해요",
+    "Transliteration": "Sansoga piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The power’s out",
+    "English in Hangul": "더 파워스 아웃",
+    "Korean": "전기가 끊겼어요",
+    "Transliteration": "Jeongiga kkeunkyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m dehydrated",
+    "English in Hangul": "아임 디하이드레이티드",
+    "Korean": "탈수됐어요",
+    "Transliteration": "Talsudwaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a landslide",
+    "English in Hangul": "데어스 어 랜드슬라이드",
+    "Korean": "산사태가 났어요",
+    "Transliteration": "Sansataega nasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been bitten",
+    "English in Hangul": "아이브 빈 비튼",
+    "Korean": "물렸어요",
+    "Transliteration": "Mullyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a bomb",
+    "English in Hangul": "데어스 어 밤",
+    "Korean": "폭탄이 있어요",
+    "Transliteration": "Poktani isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m blind",
+    "English in Hangul": "아임 블라인드",
+    "Korean": "눈이 안 보여요",
+    "Transliteration": "Nuni an boyeoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I can’t hear",
+    "English in Hangul": "아이 캔트 히어",
+    "Korean": "귀가 안 들려요",
+    "Transliteration": "Gwiga an deullyeoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The roof’s leaking",
+    "English in Hangul": "더 루프스 리킹",
+    "Korean": "지붕이 새요",
+    "Transliteration": "Jibungi saeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m having a seizure",
+    "English in Hangul": "아임 해빙 어 시저",
+    "Korean": "경련이 일어났어요",
+    "Transliteration": "Gyeongnyeoni ireonasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a tornado",
+    "English in Hangul": "데어스 어 토네이도",
+    "Korean": "토네이도가 와요",
+    "Transliteration": "Toneidoga wayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m unconscious",
+    "English in Hangul": "아임 언컨셔스",
+    "Korean": "의식을 잃었어요",
+    "Transliteration": "Uisigeul ilheosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The boat’s sinking",
+    "English in Hangul": "더 보츠 싱킹",
+    "Korean": "배가 가라앉고 있어요",
+    "Transliteration": "Baega garaango isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need a bandage",
+    "English in Hangul": "아이 니드 어 밴디지",
+    "Korean": "붕대가 필요해요",
+    "Transliteration": "Bungdaega piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a blackout",
+    "English in Hangul": "데어스 어 블랙아웃",
+    "Korean": "정전됐어요",
+    "Transliteration": "Jeongjeondwaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m having contractions",
+    "English in Hangul": "아임 해빙 컨트랙션스",
+    "Korean": "진통이 와요",
+    "Transliteration": "Jintongi wayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The plane’s crashing",
+    "English in Hangul": "더 플레인스 크래싱",
+    "Korean": "비행기가 추락해요",
+    "Transliteration": "Bihaenggiga churakhaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been attacked",
+    "English in Hangul": "아이브 빈 어택드",
+    "Korean": "공격당했어요",
+    "Transliteration": "Gonggyeokdanghaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a riot",
+    "English in Hangul": "데어스 어 라이엇",
+    "Korean": "폭동이 일어났어요",
+    "Transliteration": "Pokdongi ireonasseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need shelter",
+    "English in Hangul": "아이 니드 셸터",
+    "Korean": "피난처가 필요해요",
+    "Transliteration": "Pinancheoga piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The dam broke",
+    "English in Hangul": "더 댐 브로크",
+    "Korean": "댐이 터졌어요",
+    "Transliteration": "Daemi teojyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m stranded",
+    "English in Hangul": "아임 스트랜디드",
+    "Korean": "고립됐어요",
+    "Transliteration": "Goripdwaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a tsunami",
+    "English in Hangul": "데어스 어 쓰나미",
+    "Korean": "쓰나미가 와요",
+    "Transliteration": "Sseunamiga wayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need a flashlight",
+    "English in Hangul": "아이 니드 어 플래시라이트",
+    "Korean": "손전등이 필요해요",
+    "Transliteration": "Sonjeondeungi piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The train derailed",
+    "English in Hangul": "더 트레인 디레일드",
+    "Korean": "기차가 탈선했어요",
+    "Transliteration": "Gichaga talseonhaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m in shock",
+    "English in Hangul": "아임 인 쇼크",
+    "Korean": "쇼크 상태예요",
+    "Transliteration": "Syokeu sangtaeyeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a chemical spill",
+    "English in Hangul": "데어스 어 케미컬 스필",
+    "Korean": "화학물질이 유출됐어요",
+    "Transliteration": "Hwahakmuljiri yuchuldwaesseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need a blanket",
+    "English in Hangul": "아이 니드 어 블랭킷",
+    "Korean": "담요가 필요해요",
+    "Transliteration": "Damyoga piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The elevator’s stuck",
+    "English in Hangul": "더 엘리베이터스 스턱",
+    "Korean": "엘리베이터가 멈췄어요",
+    "Transliteration": "Ellibeiteoga meomchwosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’ve been burned",
+    "English in Hangul": "아이브 빈 번드",
+    "Korean": "화상을 입었어요",
+    "Transliteration": "Hwasangeul ibeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a hurricane",
+    "English in Hangul": "데어스 어 허리케인",
+    "Korean": "허리케인이 와요",
+    "Transliteration": "Heorikeini wayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need food",
+    "English in Hangul": "아이 니드 푸드",
+    "Korean": "음식이 필요해요",
+    "Transliteration": "Eumsigi piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The wall collapsed",
+    "English in Hangul": "더 월 컬랩스드",
+    "Korean": "벽이 무너졌어요",
+    "Transliteration": "Byeogi muneojyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m in pain",
+    "English in Hangul": "아임 인 페인",
+    "Korean": "아파요",
+    "Transliteration": "Apayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "There’s a wild animal",
+    "English in Hangul": "데어스 어 와일드 애니멀",
+    "Korean": "야생 동물이 있어요",
+    "Transliteration": "Yasaeng dongmuri isseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I need a phone",
+    "English in Hangul": "아이 니드 어 폰",
+    "Korean": "전화기가 필요해요",
+    "Transliteration": "Jeonhwagiga piryohaeyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "The floor’s flooding",
+    "English in Hangul": "더 플로어스 플러딩",
+    "Korean": "바닥에 물이 차요",
+    "Transliteration": "Badage muri chayo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "I’m exhausted",
+    "English in Hangul": "아임 엑소스티드",
+    "Korean": "지쳤어요",
+    "Transliteration": "Jichyeosseoyo"
+  },
+  {
+    "Category": "Emergency",
+    "English": "Help my family!",
+    "English in Hangul": "헬프 마이 패밀리!",
+    "Korean": "제 가족을 도와주세요!",
+    "Transliteration": "Je gajogeul dowajuseyo!"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hello!",
+    "English in Hangul": "헬로!",
+    "Korean": "안녕하세요!",
+    "Transliteration": "Annyeonghaseyo!"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good morning",
+    "English in Hangul": "굿 모닝",
+    "Korean": "좋은 아침이에요",
+    "Transliteration": "Joeun achim-ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good afternoon",
+    "English in Hangul": "굿 애프터눈",
+    "Korean": "좋은 오후예요",
+    "Transliteration": "Joeun ohuyeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good evening",
+    "English in Hangul": "굿 이브닝",
+    "Korean": "좋은 저녁이에요",
+    "Transliteration": "Joeun jeonyeok-ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Goodbye",
+    "English in Hangul": "굿바이",
+    "Korean": "안녕히 가세요",
+    "Transliteration": "Annyeonghi gaseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you later",
+    "English in Hangul": "씨 유 레이터",
+    "Korean": "나중에 봐요",
+    "Transliteration": "Najunge bwayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you",
+    "English in Hangul": "땡큐",
+    "Korean": "감사합니다",
+    "Transliteration": "Gamsahamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re welcome",
+    "English in Hangul": "유어 웰컴",
+    "Korean": "천만에요",
+    "Transliteration": "Cheonmaneyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please",
+    "English in Hangul": "플리즈",
+    "Korean": "제발요",
+    "Transliteration": "Jebalyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Excuse me",
+    "English in Hangul": "엑스큐즈 미",
+    "Korean": "실례합니다",
+    "Transliteration": "Sillyehamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m sorry",
+    "English in Hangul": "아임 소리",
+    "Korean": "미안합니다",
+    "Transliteration": "Mianhamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Nice to meet you",
+    "English in Hangul": "나이스 투 밋 유",
+    "Korean": "만나서 반갑습니다",
+    "Transliteration": "Mannaseo bangapseumnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "How are you?",
+    "English in Hangul": "하우 아 유?",
+    "Korean": "잘 지내세요?",
+    "Transliteration": "Jal jinaeseyo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m fine",
+    "English in Hangul": "아임 파인",
+    "Korean": "잘 지내요",
+    "Transliteration": "Jal jinaeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "What’s your name?",
+    "English in Hangul": "왓츠 유어 네임?",
+    "Korean": "이름이 뭐예요?",
+    "Transliteration": "Ireumi mwoyeyo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "My name is…",
+    "English in Hangul": "마이 네임 이즈…",
+    "Korean": "제 이름은…이에요",
+    "Transliteration": "Je ireumeun…ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Take care",
+    "English in Hangul": "테이크 케어",
+    "Korean": "조심하세요",
+    "Transliteration": "Josimhaseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a good day",
+    "English in Hangul": "해브 어 굿 데이",
+    "Korean": "좋은 하루 되세요",
+    "Transliteration": "Joeun haru doeseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good night",
+    "English in Hangul": "굿 나이트",
+    "Korean": "잘 자요",
+    "Transliteration": "Jal jayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Welcome!",
+    "English in Hangul": "웰컴!",
+    "Korean": "환영합니다!",
+    "Transliteration": "Hwanyeonghamnida!"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Hi there",
+    "English in Hangul": "하이 데어",
+    "Korean": "안녕하세요",
+    "Transliteration": "Annyeonghaseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Pleased to see you",
+    "English in Hangul": "플리즈드 투 씨 유",
+    "Korean": "만나서 기쁩니다",
+    "Transliteration": "Mannaseo gippeumnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you very much",
+    "English in Hangul": "땡큐 베리 머치",
+    "Korean": "정말 감사합니다",
+    "Transliteration": "Jeongmal gamsahamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "No problem",
+    "English in Hangul": "노 프라블럼",
+    "Korean": "괜찮아요",
+    "Transliteration": "Gwaenchanhayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Yes, please",
+    "English in Hangul": "예스, 플리즈",
+    "Korean": "네, 부탁드려요",
+    "Transliteration": "Ne, butakdeuryeoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "No, thank you",
+    "English in Hangul": "노, 땡큐",
+    "Korean": "아니요, 괜찮습니다",
+    "Transliteration": "Aniyo, gwaenchansseumnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry to bother you",
+    "English in Hangul": "소리 투 바더 유",
+    "Korean": "방해해서 죄송합니다",
+    "Transliteration": "Banghaehaeseo joesonghamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Can you help me?",
+    "English in Hangul": "캔 유 헬프 미?",
+    "Korean": "도와주실 수 있나요?",
+    "Transliteration": "Dowajusil su innayo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sure",
+    "English in Hangul": "슈어",
+    "Korean": "물론이죠",
+    "Transliteration": "Mullonijyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I don’t understand",
+    "English in Hangul": "아이 돈트 언더스탠드",
+    "Korean": "이해 못했어요",
+    "Transliteration": "Ihae mothaesseoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Could you repeat?",
+    "English in Hangul": "쿨드 유 리핏?",
+    "Korean": "다시 말해줄래요?",
+    "Transliteration": "Dasi malhaejullaeyo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Wait a moment",
+    "English in Hangul": "웨이트 어 모먼트",
+    "Korean": "잠시만요",
+    "Transliteration": "Jamsimanyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you tomorrow",
+    "English in Hangul": "씨 유 투모로우",
+    "Korean": "내일 봐요",
+    "Transliteration": "Naeil bwayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Congrats!",
+    "English in Hangul": "컨그래츠!",
+    "Korean": "축하합니다!",
+    "Transliteration": "Chukahamnida!"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Good luck",
+    "English in Hangul": "굿 럭",
+    "Korean": "행운을 빌어요",
+    "Transliteration": "Haeng-uneul bireoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I appreciate it",
+    "English in Hangul": "아이 어프리시에이트 잇",
+    "Korean": "감사드립니다",
+    "Transliteration": "Gamsadeurimnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s okay",
+    "English in Hangul": "잇츠 오케이",
+    "Korean": "괜찮습니다",
+    "Transliteration": "Gwaenchansseumnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "How’s it going?",
+    "English in Hangul": "하우즈 잇 고잉?",
+    "Korean": "잘 돼요?",
+    "Transliteration": "Jal dwaeyo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m happy to help",
+    "English in Hangul": "아임 해피 투 헬프",
+    "Korean": "도와줘서 기뻐요",
+    "Transliteration": "Dowajwoseo gippeoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Enjoy your meal",
+    "English in Hangul": "엔조이 유어 밀",
+    "Korean": "맛있게 드세요",
+    "Transliteration": "Masitge deuseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have a nice trip",
+    "English in Hangul": "해브 어 나이스 트립",
+    "Korean": "즐거운 여행 되세요",
+    "Transliteration": "Jeulgeoun yeohaeng doeseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry for being late",
+    "English in Hangul": "소리 포 비잉 레이트",
+    "Korean": "늦어서 죄송합니다",
+    "Transliteration": "Neujeoseo joesonghamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Let me introduce myself",
+    "English in Hangul": "렛 미 인트로듀스 마이셀프",
+    "Korean": "자기소개할게요",
+    "Transliteration": "Jagisogaehalgeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Where are you from?",
+    "English in Hangul": "웨어 아 유 프롬?",
+    "Korean": "어디 출신이세요?",
+    "Transliteration": "Eodi chulsiniseyo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m from…",
+    "English in Hangul": "아임 프롬…",
+    "Korean": "저는 …에서 왔어요",
+    "Transliteration": "Jeoneun …eseo wasseoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Cheers!",
+    "English in Hangul": "치어스!",
+    "Korean": "건배!",
+    "Transliteration": "Geonbae!"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Take it easy",
+    "English in Hangul": "테이크 잇 이지",
+    "Korean": "천천히 하세요",
+    "Transliteration": "Cheoncheonhi haseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’ll be back",
+    "English in Hangul": "아일 비 백",
+    "Korean": "곧 돌아올게요",
+    "Transliteration": "Got doraolgeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Happy birthday",
+    "English in Hangul": "해피 버스데이",
+    "Korean": "생일 축하해요",
+    "Transliteration": "Saengil chukahaeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Get well soon",
+    "English in Hangul": "겟 웰 순",
+    "Korean": "빨리 나으세요",
+    "Transliteration": "Ppalli naeuseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Nice weather",
+    "English in Hangul": "나이스 웨더",
+    "Korean": "날씨가 좋아요",
+    "Transliteration": "Nalssiga joayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Long time no see",
+    "English in Hangul": "롱 타임 노 씨",
+    "Korean": "오랜만이에요",
+    "Transliteration": "Oraenman-ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I missed you",
+    "English in Hangul": "아이 미스트 유",
+    "Korean": "보고 싶었어요",
+    "Transliteration": "Bogo sipeosseoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please sit down",
+    "English in Hangul": "플리즈 싯 다운",
+    "Korean": "앉으세요",
+    "Transliteration": "Anjeuseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Make yourself at home",
+    "English in Hangul": "메이크 유어셀프 앳 홈",
+    "Korean": "편히 계세요",
+    "Transliteration": "Pyeonhi gyeseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "How can I assist you?",
+    "English in Hangul": "하우 캔 아이 어시스트 유?",
+    "Korean": "어떻게 도와드릴까요?",
+    "Transliteration": "Eotteoke dowadeurilkkayo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m glad you’re here",
+    "English in Hangul": "아임 글래드 유어 히어",
+    "Korean": "여기 와줘서 기뻐요",
+    "Transliteration": "Yeogi wajwoseo gippeoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Don’t worry",
+    "English in Hangul": "돈트 워리",
+    "Korean": "걱정 마세요",
+    "Transliteration": "Geokjeong maseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s my pleasure",
+    "English in Hangul": "잇츠 마이 플레저",
+    "Korean": "제 기쁨이에요",
+    "Transliteration": "Je gippeum-ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry to hear that",
+    "English in Hangul": "소리 투 히어 댓",
+    "Korean": "그 소식 들으니 유감이에요",
+    "Transliteration": "Geu sosik deureuni yugam-ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Can I join you?",
+    "English in Hangul": "캔 아이 조인 유?",
+    "Korean": "함께해도 될까요?",
+    "Transliteration": "Hamkkehaedo doelkkayo?"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re very kind",
+    "English in Hangul": "유어 베리 카인드",
+    "Korean": "정말 친절하시네요",
+    "Transliteration": "Jeongmal chinjeolhasineyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I hope you’re well",
+    "English in Hangul": "아이 호프 유어 웰",
+    "Korean": "잘 지내시길 바랍니다",
+    "Transliteration": "Jal jinaesigil baramnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please come in",
+    "English in Hangul": "플리즈 컴 인",
+    "Korean": "들어오세요",
+    "Transliteration": "Deureooseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thank you for coming",
+    "English in Hangul": "땡큐 포 커밍",
+    "Korean": "와줘서 고마워요",
+    "Transliteration": "Wajwoseo gomawoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’ll see you soon",
+    "English in Hangul": "아일 씨 유 순",
+    "Korean": "곧 뵙겠습니다",
+    "Transliteration": "Got boepgetseumnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Safe travels",
+    "English in Hangul": "세이프 트래블스",
+    "Korean": "안전한 여행 되세요",
+    "Transliteration": "Anjeonhan yeohaeng doeseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please wait",
+    "English in Hangul": "플리즈 웨이트",
+    "Korean": "기다려주세요",
+    "Transliteration": "Gidaryeojuseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m here to help",
+    "English in Hangul": "아임 히어 투 헬프",
+    "Korean": "도우러 왔어요",
+    "Transliteration": "Doureo wasseoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Happy to see you",
+    "English in Hangul": "해피 투 씨 유",
+    "Korean": "만나서 행복해요",
+    "Transliteration": "Mannaseo haengbokhaeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Let’s keep in touch",
+    "English in Hangul": "렛츠 킵 인 터치",
+    "Korean": "연락 유지합시다",
+    "Transliteration": "Yeollak yujihapsida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry for the trouble",
+    "English in Hangul": "소리 포 더 트러블",
+    "Korean": "불편을 끼쳐 죄송합니다",
+    "Transliteration": "Bulpyeoneul kkichyeo joesonghamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You look great",
+    "English in Hangul": "유 룩 그레이트",
+    "Korean": "멋져 보이세요",
+    "Transliteration": "Meotjyeo boiseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Have fun",
+    "English in Hangul": "해브 펀",
+    "Korean": "즐기세요",
+    "Transliteration": "Jeulgiseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I owe you one",
+    "English in Hangul": "아이 오우 유 원",
+    "Korean": "빚졌네요",
+    "Transliteration": "Bitjyeotneyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please forgive me",
+    "English in Hangul": "플리즈 포기브 미",
+    "Korean": "용서해 주세요",
+    "Transliteration": "Yongseohae juseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s nice here",
+    "English in Hangul": "잇츠 나이스 히어",
+    "Korean": "여기 좋아요",
+    "Transliteration": "Yeogi joayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’ll call you",
+    "English in Hangul": "아일 콜 유",
+    "Korean": "전화할게요",
+    "Transliteration": "Jeonhwahalgeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thanks for waiting",
+    "English in Hangul": "땡스 포 웨이팅",
+    "Korean": "기다려줘서 고마워요",
+    "Transliteration": "Gidaryeojwoseo gomawoyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please go ahead",
+    "English in Hangul": "플리즈 고 어헤드",
+    "Korean": "먼저 가세요",
+    "Transliteration": "Meonjeo gaseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m grateful",
+    "English in Hangul": "아임 그레이트풀",
+    "Korean": "고맙습니다",
+    "Transliteration": "Gomapseumnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Let me know",
+    "English in Hangul": "렛 미 노우",
+    "Korean": "알려주세요",
+    "Transliteration": "Allyeojuseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Sorry to interrupt",
+    "English in Hangul": "소리 투 인터럽트",
+    "Korean": "방해해서 미안해요",
+    "Transliteration": "Banghaehaeseo mianhaeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re the best",
+    "English in Hangul": "유어 더 베스트",
+    "Korean": "최고예요",
+    "Transliteration": "Choegoyeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I respect you",
+    "English in Hangul": "아이 리스펙트 유",
+    "Korean": "존경합니다",
+    "Transliteration": "Jongyeonghamnida"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please take this",
+    "English in Hangul": "플리즈 테이크 디스",
+    "Korean": "이거 받으세요",
+    "Transliteration": "Igeo badeuseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thanks for everything",
+    "English in Hangul": "땡스 포 에브리띵",
+    "Korean": "모든 것에 감사해요",
+    "Transliteration": "Modeun geose gamsahaeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’ll do my best",
+    "English in Hangul": "아일 두 마이 베스트",
+    "Korean": "최선을 다할게요",
+    "Transliteration": "Choeseoneul dahalgeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "It’s an honor",
+    "English in Hangul": "잇츠 앤 아너",
+    "Korean": "영광이에요",
+    "Transliteration": "Yeonggwang-ieyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please relax",
+    "English in Hangul": "플리즈 릴렉스",
+    "Korean": "편히 쉬세요",
+    "Transliteration": "Pyeonhi swiseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’m at your service",
+    "English in Hangul": "아임 앳 유어 서비스",
+    "Korean": "도움 드릴게요",
+    "Transliteration": "Doum deurilgeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Happy holidays",
+    "English in Hangul": "해피 홀리데이즈",
+    "Korean": "즐거운 휴일 보내세요",
+    "Transliteration": "Jeulgeoun hyuil bonaeseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Thanks for the help",
+    "English in Hangul": "땡스 포 더 헬프",
+    "Korean": "도와줘서 감사해요",
+    "Transliteration": "Dowajwoseo gamsahaeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "See you next time",
+    "English in Hangul": "씨 유 넥스트 타임",
+    "Korean": "다음에 봐요",
+    "Transliteration": "Daeume bwayo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "You’re so nice",
+    "English in Hangul": "유어 소 나이스",
+    "Korean": "너무 친절하세요",
+    "Transliteration": "Neomu chinjeolhaseyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "I’ll remember this",
+    "English in Hangul": "아일 리멤버 디스",
+    "Korean": "이거 기억할게요",
+    "Transliteration": "Igeo gieokhalgeyo"
+  },
+  {
+    "Category": "Greetings & Politeness",
+    "English": "Please stay safe",
+    "English in Hangul": "플리즈 스테이 세이프",
+    "Korean": "안전하게 지내세요",
+    "Transliteration": "Anjeonhage jinaeseyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where is the station?",
+    "English in Hangul": "웨어 이즈 더 스테이션?",
+    "Korean": "역이 어디예요?",
+    "Transliteration": "Yeogi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a ticket",
+    "English in Hangul": "아이 니드 어 티켓",
+    "Korean": "표가 필요해요",
+    "Transliteration": "Pyoga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "How much is it?",
+    "English in Hangul": "하우 머치 이즈 잇?",
+    "Korean": "多少钱이에요?",
+    "Transliteration": "Eolmaeyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "When is the next train?",
+    "English in Hangul": "웬 이즈 더 넥스트 트레인?",
+    "Korean": "다음 기차 언제예요?",
+    "Transliteration": "Daeum gicha eonjeyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m going to…",
+    "English in Hangul": "아임 고잉 투…",
+    "Korean": "…에 가요",
+    "Transliteration": "…e gayo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the bathroom?",
+    "English in Hangul": "웨어스 더 배스룸?",
+    "Korean": "화장실이 어디예요?",
+    "Transliteration": "Hwajangsiri eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I missed my flight",
+    "English in Hangul": "아이 미스트 마이 플라이트",
+    "Korean": "비행기를 놓쳤어요",
+    "Transliteration": "Bihaenggireul nohcheosseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can you take me there?",
+    "English in Hangul": "캔 유 테이크 미 데어?",
+    "Korean": "거기 데려다 줄 수 있나요?",
+    "Transliteration": "Geogi deryeoda jul su innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a map",
+    "English in Hangul": "아이 니드 어 맵",
+    "Korean": "지도가 필요해요",
+    "Transliteration": "Jidoga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is it far?",
+    "English in Hangul": "이즈 잇 파?",
+    "Korean": "멀어요?",
+    "Transliteration": "Meoreoyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Turn left",
+    "English in Hangul": "턴 레프트",
+    "Korean": "왼쪽으로 돌세요",
+    "Transliteration": "Oenjjogeuro dolseyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Turn right",
+    "English in Hangul": "턴 라이트",
+    "Korean": "오른쪽으로 돌세요",
+    "Transliteration": "Oreunjjogeuro dolseyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Go straight",
+    "English in Hangul": "고 스트레이트",
+    "Korean": "직진하세요",
+    "Transliteration": "Jikjinhaseyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "How long does it take?",
+    "English in Hangul": "하우 롱 더즈 잇 테이크?",
+    "Korean": "얼마나 걸려요?",
+    "Transliteration": "Eolmana geollyeoyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m lost",
+    "English in Hangul": "아임 로스트",
+    "Korean": "길을 잃었어요",
+    "Transliteration": "Gireul ilheosseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the hotel?",
+    "English in Hangul": "웨어스 더 호텔?",
+    "Korean": "호텔이 어디예요?",
+    "Transliteration": "Hoteli eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a taxi",
+    "English in Hangul": "아이 니드 어 택시",
+    "Korean": "택시가 필요해요",
+    "Transliteration": "Taeksiga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Take me to the airport",
+    "English in Hangul": "테이크 미 투 더 에어포트",
+    "Korean": "공항에 데려다 주세요",
+    "Transliteration": "Gonghange deryeoda juseyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "What time is it?",
+    "English in Hangul": "왓 타임 이즈 잇?",
+    "Korean": "몇 시예요?",
+    "Transliteration": "Myeot siyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need to check in",
+    "English in Hangul": "아이 니드 투 체크 인",
+    "Korean": "체크인 해야 해요",
+    "Transliteration": "Chekeuin haeya haeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the bus stop?",
+    "English in Hangul": "웨어스 더 버스 스탑?",
+    "Korean": "버스 정류장이 어디예요?",
+    "Transliteration": "Beoseu jeongnyujangi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is this the right way?",
+    "English in Hangul": "이즈 디스 더 라이트 웨이?",
+    "Korean": "이 길이 맞나요?",
+    "Transliteration": "I giri matnayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I forgot my passport",
+    "English in Hangul": "아이 포갓 마이 패스포트",
+    "Korean": "여권을 잊어버렸어요",
+    "Transliteration": "Yeogwoneul ijeobeoryeosseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can I have a window seat?",
+    "English in Hangul": "캔 아이 해브 어 윈도우 씨트?",
+    "Korean": "창가 자리를 줄 수 있나요?",
+    "Transliteration": "Changga jarireul jul su innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the exit?",
+    "English in Hangul": "웨어스 더 엑싯?",
+    "Korean": "출구가 어디예요?",
+    "Transliteration": "Chulguga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need directions",
+    "English in Hangul": "아이 니드 디렉션스",
+    "Korean": "길 안내가 필요해요",
+    "Transliteration": "Gil annaega piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "How do I get there?",
+    "English in Hangul": "하우 두 아이 겟 데어?",
+    "Korean": "거기 어떻게 가요?",
+    "Transliteration": "Geogi eotteoke gayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m traveling alone",
+    "English in Hangul": "아임 트래블링 얼론",
+    "Korean": "혼자 여행해요",
+    "Transliteration": "Honja yeohaenghaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the tourist office?",
+    "English in Hangul": "웨어스 더 투어리스트 오피스?",
+    "Korean": "관광 안내소가 어디예요?",
+    "Transliteration": "Gwangwang annaesoga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can you show me?",
+    "English in Hangul": "캔 유 쇼 미?",
+    "Korean": "보여줄 수 있나요?",
+    "Transliteration": "Boyeojul su innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a ride",
+    "English in Hangul": "아이 니드 어 라이드",
+    "Korean": "태워줄 사람이 필요해요",
+    "Transliteration": "Taewojul sarami piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "What’s this place?",
+    "English in Hangul": "왓츠 디스 플레이스?",
+    "Korean": "여기가 어디예요?",
+    "Transliteration": "Yeogiga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m late",
+    "English in Hangul": "아임 레이트",
+    "Korean": "늦었어요",
+    "Transliteration": "Neujeosseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where can I park?",
+    "English in Hangul": "웨어 캔 아이 파크?",
+    "Korean": "어디 주차해요?",
+    "Transliteration": "Eodi juchahaeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a guide",
+    "English in Hangul": "아이 니드 어 가이드",
+    "Korean": "가이드가 필요해요",
+    "Transliteration": "Gaideuga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is there a subway?",
+    "English in Hangul": "이즈 데어 어 서브웨이?",
+    "Korean": "지하철이 있나요?",
+    "Transliteration": "Jihacheori innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "How far is the beach?",
+    "English in Hangul": "하우 파 이즈 더 비치?",
+    "Korean": "해변이 얼마나 멀어요?",
+    "Transliteration": "Haebyeoni eolmana meoreoyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I lost my luggage",
+    "English in Hangul": "아이 로스트 마이 러기지",
+    "Korean": "짐을 잃어버렸어요",
+    "Transliteration": "Jimeul ilheobeoryeosseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the entrance?",
+    "English in Hangul": "웨어스 더 엔트런스?",
+    "Korean": "입구가 어디예요?",
+    "Transliteration": "Ipguga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can I take a picture?",
+    "English in Hangul": "캔 아이 테이크 어 픽처?",
+    "Korean": "사진 찍어도 돼요?",
+    "Transliteration": "Sajin jjigeodo dwaeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need to exchange money",
+    "English in Hangul": "아이 니드 투 익스체인지 머니",
+    "Korean": "돈을 환전해야 해요",
+    "Transliteration": "Doneul hwanjeonhaeya haeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the ATM?",
+    "English in Hangul": "웨어스 더 에이티엠?",
+    "Korean": "ATM이 어디예요?",
+    "Transliteration": "ATM-i eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is it safe here?",
+    "English in Hangul": "이즈 잇 세이프 히어?",
+    "Korean": "여기 안전해요?",
+    "Transliteration": "Yeogi anjeonhaeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m a tourist",
+    "English in Hangul": "아임 어 투어리스트",
+    "Korean": "관광객이에요",
+    "Transliteration": "Gwangwanggaeg-ieyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "What’s the schedule?",
+    "English in Hangul": "왓츠 더 스케줄?",
+    "Korean": "일정이 뭐예요?",
+    "Transliteration": "Iljeongi mwoyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a hotel room",
+    "English in Hangul": "아이 니드 어 호텔 룸",
+    "Korean": "호텔 방이 필요해요",
+    "Transliteration": "Hotel bangi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the museum?",
+    "English in Hangul": "웨어스 더 뮤지엄?",
+    "Korean": "박물관이 어디예요?",
+    "Transliteration": "Bangmulgwani eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "How do I buy a ticket?",
+    "English in Hangul": "하우 두 아이 바이 어 티켓?",
+    "Korean": "표 어떻게 사요?",
+    "Transliteration": "Pyo eotteoke sayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m here for vacation",
+    "English in Hangul": "아임 히어 포 베케이션",
+    "Korean": "휴가로 왔어요",
+    "Transliteration": "Hyugaro wasseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the rental car?",
+    "English in Hangul": "웨어스 더 렌탈 카?",
+    "Korean": "렌터카가 어디예요?",
+    "Transliteration": "Renteokaga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can I board now?",
+    "English in Hangul": "캔 아이 보드 나우?",
+    "Korean": "지금 탈 수 있나요?",
+    "Transliteration": "Jigeum tal su innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the platform?",
+    "English in Hangul": "웨어스 더 플랫폴름?",
+    "Korean": "플랫폼이 어디예요?",
+    "Transliteration": "Peullaetpom-i eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a charger",
+    "English in Hangul": "아이 니드 어 차저",
+    "Korean": "충전기가 필요해요",
+    "Transliteration": "Chungjeongiga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is this seat taken?",
+    "English in Hangul": "이즈 디스 씨트 테이큰?",
+    "Korean": "이 자리 비었나요?",
+    "Transliteration": "I jari bieonnayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the gate?",
+    "English in Hangul": "웨어스 더 게이트?",
+    "Korean": "게이트가 어디예요?",
+    "Transliteration": "Geiteuga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need Wi-Fi",
+    "English in Hangul": "아이 니드 와이파이",
+    "Korean": "와이파이가 필요해요",
+    "Transliteration": "Waipai-ga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "What’s the next stop?",
+    "English in Hangul": "왓츠 더 넥스트 스탑?",
+    "Korean": "다음 정거장이 어디예요?",
+    "Transliteration": "Daeum jeonggeojangi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m visiting friends",
+    "English in Hangul": "아임 비지팅 프렌즈",
+    "Korean": "친구를 방문했어요",
+    "Transliteration": "Chingureul bangmunhaesseoyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the city center?",
+    "English in Hangul": "웨어스 더 시티 센터?",
+    "Korean": "도심이 어디예요?",
+    "Transliteration": "Dosimi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can I pay with card?",
+    "English in Hangul": "캔 아이 페이 윗 카드?",
+    "Korean": "카드로 결제할 수 있나요?",
+    "Transliteration": "Kadeuro gyeoljehal su innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a receipt",
+    "English in Hangul": "아이 니드 어 리시트",
+    "Korean": "영수증이 필요해요",
+    "Transliteration": "Yeongsujeungi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the parking lot?",
+    "English in Hangul": "웨어스 더 파킹 랏?",
+    "Korean": "주차장이 어디예요?",
+    "Transliteration": "Juchajangi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is there a train delay?",
+    "English in Hangul": "이즈 데어 어 트레인 딜레이?",
+    "Korean": "기차가 연착됐나요?",
+    "Transliteration": "Gichaga yeonchakdwaennayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need to catch a bus",
+    "English in Hangul": "아이 니드 투 캐치 어 버스",
+    "Korean": "버스를 타야 해요",
+    "Transliteration": "Beoseureul taya haeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the ferry?",
+    "English in Hangul": "웨어스 더 페리?",
+    "Korean": "페리가 어디예요?",
+    "Transliteration": "Periga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "What’s the distance?",
+    "English in Hangul": "왓츠 더 디스턴스?",
+    "Korean": "거리가 얼마예요?",
+    "Transliteration": "Georiga eolmayeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a reservation",
+    "English in Hangul": "아이 니드 어 리저베이션",
+    "Korean": "예약이 필요해요",
+    "Transliteration": "Yeyagi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the hostel?",
+    "English in Hangul": "웨어스 더 호스텔?",
+    "Korean": "호스텔이 어디예요?",
+    "Transliteration": "Hoseuteli eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Can you call a taxi?",
+    "English in Hangul": "캔 유 콜 어 택시?",
+    "Korean": "택시 불러줄 수 있나요?",
+    "Transliteration": "Taeksi bulleojul su innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need to check out",
+    "English in Hangul": "아이 니드 투 체크 아웃",
+    "Korean": "체크아웃 해야 해요",
+    "Transliteration": "Chekeuaut haeya haeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the bridge?",
+    "English in Hangul": "웨어스 더 브릿지?",
+    "Korean": "다리가 어디예요?",
+    "Transliteration": "Dariga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is it nearby?",
+    "English in Hangul": "이즈 잇 니어바이?",
+    "Korean": "가까이에 있나요?",
+    "Transliteration": "Gakkaie innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a timetable",
+    "English in Hangul": "아이 니드 어 타임테이블",
+    "Korean": "시간표가 필요해요",
+    "Transliteration": "Sigampyoga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the ticket office?",
+    "English in Hangul": "웨어스 더 티켓 오피스?",
+    "Korean": "매표소가 어디예요?",
+    "Transliteration": "Maepyosoga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m going sightseeing",
+    "English in Hangul": "아임 고잉 사이트씨잉",
+    "Korean": "관광하러 가요",
+    "Transliteration": "Gwangwanghareo gayo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the park?",
+    "English in Hangul": "웨어스 더 파크?",
+    "Korean": "공원이 어디예요?",
+    "Transliteration": "Gongwoni eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a backpack",
+    "English in Hangul": "아이 니드 어 백팩",
+    "Korean": "배낭이 필요해요",
+    "Transliteration": "Baenangi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is the road closed?",
+    "English in Hangul": "이즈 더 로드 클로즈드?",
+    "Korean": "길이 막혔나요?",
+    "Transliteration": "Giri makyeonnayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the harbor?",
+    "English in Hangul": "웨어스 더 하버?",
+    "Korean": "항구가 어디예요?",
+    "Transliteration": "Hangguga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a travel guide",
+    "English in Hangul": "아이 니드 어 트래블 가이드",
+    "Korean": "여행 가이드가 필요해요",
+    "Transliteration": "Yeohaeng gaideuga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "What’s the weather like?",
+    "English in Hangul": "왓츠 더 웨더 라익?",
+    "Korean": "날씨가 어때요?",
+    "Transliteration": "Nalssiga eottaeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need sunscreen",
+    "English in Hangul": "아이 니드 썬스크린",
+    "Korean": "선크림이 필요해요",
+    "Transliteration": "Seonkeurimi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the tower?",
+    "English in Hangul": "웨어스 더 타워?",
+    "Korean": "탑이 어디예요?",
+    "Transliteration": "Tabi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m on a tour",
+    "English in Hangul": "아임 온 어 투어",
+    "Korean": "투어 중이에요",
+    "Transliteration": "Tueo jung-ieyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the cathedral?",
+    "English in Hangul": "웨어스 더 커씨드럴?",
+    "Korean": "대성당이 어디예요?",
+    "Transliteration": "Daeseongdangi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a phrasebook",
+    "English in Hangul": "아이 니드 어 프레이즈북",
+    "Korean": "회화책이 필요해요",
+    "Transliteration": "Hoehwachae gi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the market?",
+    "English in Hangul": "웨어스 더 마켓?",
+    "Korean": "시장이 어디예요?",
+    "Transliteration": "Sijangi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a suitcase",
+    "English in Hangul": "아이 니드 어 수트케이스",
+    "Korean": "가방이 필요해요",
+    "Transliteration": "Gabangi piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Is there a shuttle?",
+    "English in Hangul": "이즈 데어 어 셔틀?",
+    "Korean": "셔틀이 있나요?",
+    "Transliteration": "Syeoteuri innayo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the square?",
+    "English in Hangul": "웨어스 더 스퀘어?",
+    "Korean": "광장이 어디예요?",
+    "Transliteration": "Gwangjangi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a visa",
+    "English in Hangul": "아이 니드 어 비자",
+    "Korean": "비자가 필요해요",
+    "Transliteration": "Bijaga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the embassy?",
+    "English in Hangul": "웨어스 더 엠버시?",
+    "Korean": "대사관이 어디예요?",
+    "Transliteration": "Daesagwani eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need an adapter",
+    "English in Hangul": "아이 니드 앤 어댑터",
+    "Korean": "어댑터가 필요해요",
+    "Transliteration": "Eodaepteoga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the castle?",
+    "English in Hangul": "웨어스 더 캐슬?",
+    "Korean": "성이 어디예요?",
+    "Transliteration": "Seongi eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m jet-lagged",
+    "English in Hangul": "아임 젯-랙드",
+    "Korean": "시차 때문에 피곤해요",
+    "Transliteration": "Sicha ttaemune pigonhaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the viewpoint?",
+    "English in Hangul": "웨어스 더 뷰포인트?",
+    "Korean": "전망대가 어디예요?",
+    "Transliteration": "Jeonmangdaega eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I need a camera",
+    "English in Hangul": "아이 니드 어 카메라",
+    "Korean": "카메라가 필요해요",
+    "Transliteration": "Kameraga piryohaeyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the lake?",
+    "English in Hangul": "웨어스 더 레이크?",
+    "Korean": "호수가 어디예요?",
+    "Transliteration": "Hosuga eodiyeyo?"
+  },
+  {
+    "Category": "Travel",
+    "English": "I’m exploring",
+    "English in Hangul": "아임 익스플로링",
+    "Korean": "탐험 중이에요",
+    "Transliteration": "Tamheom jung-ieyo"
+  },
+  {
+    "Category": "Travel",
+    "English": "Where’s the station entrance?",
+    "English in Hangul": "웨어스 더 스테이션 엔트런스?",
+    "Korean": "역 입구가 어디예요?",
+    "Transliteration": "Yeok ipguga eodiyeyo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’m hungry",
+    "English in Hangul": "아임 헝그리",
+    "Korean": "배고프세요",
+    "Transliteration": "Baegopeuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I see the menu?",
+    "English in Hangul": "캔 아이 씨 더 메뉴?",
+    "Korean": "메뉴 볼 수 있나요?",
+    "Transliteration": "Menyu bol su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "What do you recommend?",
+    "English in Hangul": "왓 두 유 레코멘드?",
+    "Korean": "뭐 추천해요?",
+    "Transliteration": "Mwo chucheonhaeyo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like water",
+    "English in Hangul": "아이드 라이크 워터",
+    "Korean": "물 주세요",
+    "Transliteration": "Mul juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it spicy?",
+    "English in Hangul": "이즈 잇 스파이시?",
+    "Korean": "매워요?",
+    "Transliteration": "Maewoyo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want this",
+    "English in Hangul": "아이 원트 디스",
+    "Korean": "이거 주세요",
+    "Transliteration": "Igeo juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No salt, please",
+    "English in Hangul": "노 솔트, 플리즈",
+    "Korean": "소금 빼주세요",
+    "Transliteration": "Sogeum ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have chopsticks?",
+    "English in Hangul": "캔 아이 해브 찹스틱스?",
+    "Korean": "젓가락 줄 수 있나요?",
+    "Transliteration": "Jeotgarak jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’m full",
+    "English in Hangul": "아임 풀",
+    "Korean": "배불러요",
+    "Transliteration": "Baebulleoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s delicious",
+    "English in Hangul": "잇츠 딜리셔스",
+    "Korean": "맛있어요",
+    "Transliteration": "Masitseoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Check, please",
+    "English in Hangul": "체크, 플리즈",
+    "Korean": "계산서 주세요",
+    "Transliteration": "Gyesanseo juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’m thirsty",
+    "English in Hangul": "아임 써스티",
+    "Korean": "목말라요",
+    "Transliteration": "Mongmallayo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I order now?",
+    "English in Hangul": "캔 아이 오더 나우?",
+    "Korean": "지금 주문할 수 있나요?",
+    "Transliteration": "Jigeum jumunhal su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I don’t eat meat",
+    "English in Hangul": "아이 돈트 잇 미트",
+    "Korean": "고기 안 먹어요",
+    "Transliteration": "Gogi an meogeoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "More rice, please",
+    "English in Hangul": "모어 라이스, 플리즈",
+    "Korean": "밥 더 주세요",
+    "Transliteration": "Bap deo juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it ready?",
+    "English in Hangul": "이즈 잇 레디?",
+    "Korean": "다 됐나요?",
+    "Transliteration": "Da dwaennayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like tea",
+    "English in Hangul": "아이드 라이크 티",
+    "Korean": "차 주세요",
+    "Transliteration": "Cha juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No ice, please",
+    "English in Hangul": "노 아이스, 플리즈",
+    "Korean": "얼음 빼주세요",
+    "Transliteration": "Eoreum ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a fork?",
+    "English in Hangul": "캔 아이 해브 어 포크?",
+    "Korean": "포크 줄 수 있나요?",
+    "Transliteration": "Pokeu jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s too salty",
+    "English in Hangul": "잇츠 투 솔티",
+    "Korean": "너무 짜요",
+    "Transliteration": "Neomu jjayo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’m allergic to nuts",
+    "English in Hangul": "아임 얼러직 투 넛츠",
+    "Korean": "견과류 알레르기가 있어요",
+    "Transliteration": "Gyeonwaryu allereugiga isseoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can you make it quick?",
+    "English in Hangul": "캔 유 메이크 잇 퀵?",
+    "Korean": "빨리 해줄 수 있나요?",
+    "Transliteration": "Ppalli haejul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like coffee",
+    "English in Hangul": "아이드 라이크 커피",
+    "Korean": "커피 주세요",
+    "Transliteration": "Keopi juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No sugar, please",
+    "English in Hangul": "노 슈거, 플리즈",
+    "Korean": "설탕 빼주세요",
+    "Transliteration": "Seoltang ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Where’s the restaurant?",
+    "English in Hangul": "웨어스 더 레스토랑?",
+    "Korean": "식당이 어디예요?",
+    "Transliteration": "Sikdangi eodiyeyo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I need a spoon",
+    "English in Hangul": "아이 니드 어 스푼",
+    "Korean": "숟가락이 필요해요",
+    "Transliteration": "Sutgaragi piryohaeyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s cold",
+    "English in Hangul": "잇츠 콜드",
+    "Korean": "차가워요",
+    "Transliteration": "Chagawoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a napkin?",
+    "English in Hangul": "캔 아이 해브 어 냅킨?",
+    "Korean": "냅킨 줄 수 있나요?",
+    "Transliteration": "Naepkin jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want soup",
+    "English in Hangul": "아이 원트 수프",
+    "Korean": "국 주세요",
+    "Transliteration": "Guk juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it fresh?",
+    "English in Hangul": "이즈 잇 프레쉬?",
+    "Korean": "신선해요?",
+    "Transliteration": "Sinseonhaeyo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like dessert",
+    "English in Hangul": "아이드 라이크 디저트",
+    "Korean": "디저트 주세요",
+    "Transliteration": "Dijeoteu juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No onions, please",
+    "English in Hangul": "노 어니언스, 플리즈",
+    "Korean": "양파 빼주세요",
+    "Transliteration": "Yangpa ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I take it to go?",
+    "English in Hangul": "캔 아이 테이크 잇 투 고?",
+    "Korean": "포장해줄 수 있나요?",
+    "Transliteration": "Pojanghaejul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I don’t like spicy food",
+    "English in Hangul": "아이 돈트 라이크 스파이시 푸드",
+    "Korean": "매운 음식 안 좋아해요",
+    "Transliteration": "Maeun eumsik an joahaeyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "More water, please",
+    "English in Hangul": "모어 워터, 플리즈",
+    "Korean": "물 더 주세요",
+    "Transliteration": "Mul deo juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "What’s this dish?",
+    "English in Hangul": "왓츠 디스 디쉬?",
+    "Korean": "이 요리가 뭐예요?",
+    "Transliteration": "I yoriga mwoyeyo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like beer",
+    "English in Hangul": "아이드 라이크 비어",
+    "Korean": "맥주 주세요",
+    "Transliteration": "Maekju juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No garlic, please",
+    "English in Hangul": "노 갈릭, 플리즈",
+    "Korean": "마늘 빼주세요",
+    "Transliteration": "Maneul ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have the bill?",
+    "English in Hangul": "캔 아이 해브 더 빌?",
+    "Korean": "계산서 줄 수 있나요?",
+    "Transliteration": "Gyesanseo jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s too hot",
+    "English in Hangul": "잇츠 투 핫",
+    "Korean": "너무 뜨거워요",
+    "Transliteration": "Neomu tteugeowoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want chicken",
+    "English in Hangul": "아이 원트 치킨",
+    "Korean": "치킨 주세요",
+    "Transliteration": "Chikin juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is there a vegan option?",
+    "English in Hangul": "이즈 데어 어 비건 옵션?",
+    "Korean": "비건 옵션이 있나요?",
+    "Transliteration": "Bigeon opsyeoni innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like juice",
+    "English in Hangul": "아이드 라이크 주스",
+    "Korean": "주스 주세요",
+    "Transliteration": "Juseu juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No soy sauce, please",
+    "English in Hangul": "노 소이 소스, 플리즈",
+    "Korean": "간장 빼주세요",
+    "Transliteration": "Ganjang ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have bread?",
+    "English in Hangul": "캔 아이 해브 브레드?",
+    "Korean": "빵 줄 수 있나요?",
+    "Transliteration": "Ppang jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s not cooked",
+    "English in Hangul": "잇츠 낫 쿡드",
+    "Korean": "익지 않았어요",
+    "Transliteration": "Ikji anasseoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want noodles",
+    "English in Hangul": "아이 원트 누들스",
+    "Korean": "면 주세요",
+    "Transliteration": "Myeon juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it gluten-free?",
+    "English in Hangul": "이즈 잇 글루텐-프리?",
+    "Korean": "글루텐 프리인가요?",
+    "Transliteration": "Geulluten peuri-ingayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like wine",
+    "English in Hangul": "아이드 라이크 와인",
+    "Korean": "와인 주세요",
+    "Transliteration": "Wain juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No MSG, please",
+    "English in Hangul": "노 엠에스지, 플리즈",
+    "Korean": "MSG 빼주세요",
+    "Transliteration": "MSG ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a straw?",
+    "English in Hangul": "캔 아이 해브 어 스트로?",
+    "Korean": "빨대 줄 수 있나요?",
+    "Transliteration": "Ppaldae jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s too sweet",
+    "English in Hangul": "잇츠 투 스위트",
+    "Korean": "너무 달아요",
+    "Transliteration": "Neomu dalayo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want rice",
+    "English in Hangul": "아이 원트 라이스",
+    "Korean": "밥 주세요",
+    "Transliteration": "Bap juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Does it have peanuts?",
+    "English in Hangul": "더즈 잇 해브 피넛츠?",
+    "Korean": "땅콩이 들어가 있나요?",
+    "Transliteration": "Ttangkongi deureoga innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like soda",
+    "English in Hangul": "아이드 라이크 소다",
+    "Korean": "소다 주세요",
+    "Transliteration": "Soda juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No dairy, please",
+    "English in Hangul": "노 데어리, 플리즈",
+    "Korean": "유제품 빼주세요",
+    "Transliteration": "Yujepum ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a plate?",
+    "English in Hangul": "캔 아이 해브 어 플레이트?",
+    "Korean": "접시 줄 수 있나요?",
+    "Transliteration": "Jeopsi jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s too sour",
+    "English in Hangul": "잇츠 투 사워",
+    "Korean": "너무 셔요",
+    "Transliteration": "Neomu syeoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want fish",
+    "English in Hangul": "아이 원트 피쉬",
+    "Korean": "생선 주세요",
+    "Transliteration": "Saengseon juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it vegetarian?",
+    "English in Hangul": "이즈 잇 베지테리언?",
+    "Korean": "채식인가요?",
+    "Transliteration": "Chaesigingayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like milk",
+    "English in Hangul": "아이드 라이크 밀크",
+    "Korean": "우유 주세요",
+    "Transliteration": "Uyu juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No pepper, please",
+    "English in Hangul": "노 페퍼, 플리즈",
+    "Korean": "후추 빼주세요",
+    "Transliteration": "Huchu ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a knife?",
+    "English in Hangul": "캔 아이 해브 어 나이프?",
+    "Korean": "칼 줄 수 있나요?",
+    "Transliteration": "Kal jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s bland",
+    "English in Hangul": "잇츠 블랜드",
+    "Korean": "싱거워요",
+    "Transliteration": "Singgeowoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want pork",
+    "English in Hangul": "아이 원트 포크",
+    "Korean": "돼지고기 주세요",
+    "Transliteration": "Dwaejigogi juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Does it have shellfish?",
+    "English in Hangul": "더즈 잇 해브 셸피쉬?",
+    "Korean": "조개가 들어가 있나요?",
+    "Transliteration": "Jogaega deureoga innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like cake",
+    "English in Hangul": "아이드 라이크 케이크",
+    "Korean": "케이크 주세요",
+    "Transliteration": "Keikeu juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No oil, please",
+    "English in Hangul": "노 오일, 플리즈",
+    "Korean": "기름 빼주세요",
+    "Transliteration": "Gireum ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a glass?",
+    "English in Hangul": "캔 아이 해브 어 글래스?",
+    "Korean": "잔 줄 수 있나요?",
+    "Transliteration": "Jan jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s too bitter",
+    "English in Hangul": "잇츠 투 비터",
+    "Korean": "너무 써요",
+    "Transliteration": "Neomu sseoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want beef",
+    "English in Hangul": "아이 원트 비프",
+    "Korean": "소고기 주세요",
+    "Transliteration": "Sogogi juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it halal?",
+    "English in Hangul": "이즈 잇 할랄?",
+    "Korean": "할랄인가요?",
+    "Transliteration": "Hallalingayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like ice cream",
+    "English in Hangul": "아이드 라이크 아이스 크림",
+    "Korean": "아이스크림 주세요",
+    "Transliteration": "Aiseukeurim juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No sauce, please",
+    "English in Hangul": "노 소스, 플리즈",
+    "Korean": "소스 빼주세요",
+    "Transliteration": "Soseu ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a bowl?",
+    "English in Hangul": "캔 아이 해브 어 볼?",
+    "Korean": "그릇 줄 수 있나요?",
+    "Transliteration": "Geureut jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s overcooked",
+    "English in Hangul": "잇츠 오버쿡드",
+    "Korean": "너무 익었어요",
+    "Transliteration": "Neomu igeosseoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want vegetables",
+    "English in Hangul": "아이 원트 베지터블스",
+    "Korean": "야채 주세요",
+    "Transliteration": "Yachae juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Does it have eggs?",
+    "English in Hangul": "더즈 잇 해브 에그스?",
+    "Korean": "계란이 들어가 있나요?",
+    "Transliteration": "Gyerani deureoga innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like fruit",
+    "English in Hangul": "아이드 라이크 프룻",
+    "Korean": "과일 주세요",
+    "Transliteration": "Gwail juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No fish, please",
+    "English in Hangul": "노 피쉬, 플리즈",
+    "Korean": "생선 빼주세요",
+    "Transliteration": "Saengseon ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have a cup?",
+    "English in Hangul": "캔 아이 해브 어 컵?",
+    "Korean": "컵 줄 수 있나요?",
+    "Transliteration": "Keop jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s undercooked",
+    "English in Hangul": "잇츠 언더쿡드",
+    "Korean": "덜 익었어요",
+    "Transliteration": "Deol igeosseoyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want tofu",
+    "English in Hangul": "아이 원트 토푸",
+    "Korean": "두부 주세요",
+    "Transliteration": "Dubu juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it organic?",
+    "English in Hangul": "이즈 잇 오가닉?",
+    "Korean": "유기농인가요?",
+    "Transliteration": "Yuginong-ingayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like a sandwich",
+    "English in Hangul": "아이드 라이크 어 샌드위치",
+    "Korean": "샌드위치 주세요",
+    "Transliteration": "Saendeuwichi juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No mayo, please",
+    "English in Hangul": "노 메이요, 플리즈",
+    "Korean": "마요네즈 빼주세요",
+    "Transliteration": "Mayonejeu ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have salt?",
+    "English in Hangul": "캔 아이 해브 솔트?",
+    "Korean": "소금 줄 수 있나요?",
+    "Transliteration": "Sogeum jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s perfect",
+    "English in Hangul": "잇츠 퍼펙트",
+    "Korean": "완벽해요",
+    "Transliteration": "Wanbyeokhaeyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want kimchi",
+    "English in Hangul": "아이 원트 김치",
+    "Korean": "김치 주세요",
+    "Transliteration": "Gimchi juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Does it have dairy?",
+    "English in Hangul": "더즈 잇 해브 데어리?",
+    "Korean": "유제품이 들어가 있나요?",
+    "Transliteration": "Yujepumi deureoga innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like a snack",
+    "English in Hangul": "아이드 라이크 어 스낵",
+    "Korean": "간식 주세요",
+    "Transliteration": "Gansik juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No chili, please",
+    "English in Hangul": "노 칠리, 플리즈",
+    "Korean": "고추 빼주세요",
+    "Transliteration": "Gochu ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have pepper?",
+    "English in Hangul": "캔 아이 해브 페퍼?",
+    "Korean": "후추 줄 수 있나요?",
+    "Transliteration": "Huchu jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s tasty",
+    "English in Hangul": "잇츠 테이스티",
+    "Korean": "맛있네요",
+    "Transliteration": "Masinneyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I want a meal",
+    "English in Hangul": "아이 원트 어 밀",
+    "Korean": "식사 주세요",
+    "Transliteration": "Siksa juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Is it sweet?",
+    "English in Hangul": "이즈 잇 스위트?",
+    "Korean": "달아요?",
+    "Transliteration": "Dalayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "I’d like a drink",
+    "English in Hangul": "아이드 라이크 어 드링크",
+    "Korean": "음료 주세요",
+    "Transliteration": "Eumryo juseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "No alcohol, please",
+    "English in Hangul": "노 알코올, 플리즈",
+    "Korean": "술 빼주세요",
+    "Transliteration": "Sul ppaejuseyo"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "Can I have sugar?",
+    "English in Hangul": "캔 아이 해브 슈거?",
+    "Korean": "설탕 줄 수 있나요?",
+    "Transliteration": "Seoltang jul su innayo?"
+  },
+  {
+    "Category": "Food & Dining",
+    "English": "It’s amazing",
+    "English in Hangul": "잇츠 어메이징",
+    "Korean": "대단해요",
+    "Transliteration": "Daedanhaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "How much is this?",
+    "English in Hangul": "하우 머치 이즈 디스?",
+    "Korean": "이거 얼마예요?",
+    "Transliteration": "Igeo eolmayeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I try it on?",
+    "English in Hangul": "캔 아이 트라이 잇 온?",
+    "Korean": "입어봐도 되나요?",
+    "Transliteration": "Ibeobwado doenayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in red?",
+    "English in Hangul": "두 유 해브 디스 인 레드?",
+    "Korean": "이거 빨간색 있나요?",
+    "Transliteration": "Igeo ppalgansaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a bag",
+    "English in Hangul": "아이 니드 어 백",
+    "Korean": "가방이 필요해요",
+    "Transliteration": "Gabangi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Is there a discount?",
+    "English in Hangul": "이즈 데어 어 디스카운트?",
+    "Korean": "할인 있나요?",
+    "Transliteration": "Harin innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’d like to buy this",
+    "English in Hangul": "아이드 라이크 투 바이 디스",
+    "Korean": "이거 사고 싶어요",
+    "Transliteration": "Igeo sago sipeoyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the fitting room?",
+    "English in Hangul": "웨어스 더 피팅 룸?",
+    "Korean": "탈의실이 어디예요?",
+    "Transliteration": "Talisiri eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I pay with card?",
+    "English in Hangul": "캔 아이 페이 윗 카드?",
+    "Korean": "카드로 결제할 수 있나요?",
+    "Transliteration": "Kadeuro gyeoljehal su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s too expensive",
+    "English in Hangul": "잇츠 투 익스펜시브",
+    "Korean": "너무 비싸요",
+    "Transliteration": "Neomu bissayo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have a smaller size?",
+    "English in Hangul": "두 유 해브 어 스몰러 사이즈?",
+    "Korean": "더 작은 사이즈 있나요?",
+    "Transliteration": "Deo jageun saijeu innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a receipt",
+    "English in Hangul": "아이 니드 어 리시트",
+    "Korean": "영수증이 필요해요",
+    "Transliteration": "Yeongsujeungi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the cashier?",
+    "English in Hangul": "웨어스 더 캐시어?",
+    "Korean": "계산대가 어디예요?",
+    "Transliteration": "Gyesandaega eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you wrap it?",
+    "English in Hangul": "캔 유 랩 잇?",
+    "Korean": "포장해줄 수 있나요?",
+    "Transliteration": "Pojanghaejul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’m just looking",
+    "English in Hangul": "아임 저스트 루킹",
+    "Korean": "구경만 해요",
+    "Transliteration": "Gugyeongman haeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in blue?",
+    "English in Hangul": "두 유 해브 디스 인 블루?",
+    "Korean": "이거 파란색 있나요?",
+    "Transliteration": "Igeo paransaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want to return this",
+    "English in Hangul": "아이 원트 투 리턴 디스",
+    "Korean": "이거 반품하고 싶어요",
+    "Transliteration": "Igeo banpumhago sipeoyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the store?",
+    "English in Hangul": "웨어스 더 스토어?",
+    "Korean": "가게가 어디예요?",
+    "Transliteration": "Gagega eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I get a refund?",
+    "English in Hangul": "캔 아이 겟 어 리펀드?",
+    "Korean": "환불 받을 수 있나요?",
+    "Transliteration": "Hwanbul badeul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s on sale, right?",
+    "English in Hangul": "잇츠 온 세일, 라이트?",
+    "Korean": "세일 중이죠?",
+    "Transliteration": "Seil jung-ijyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have a bigger size?",
+    "English in Hangul": "두 유 해브 어 비거 사이즈?",
+    "Korean": "더 큰 사이즈 있나요?",
+    "Transliteration": "Deo keun saijeu innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need shoes",
+    "English in Hangul": "아이 니드 슈즈",
+    "Korean": "신발이 필요해요",
+    "Transliteration": "Sinbari piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the mall?",
+    "English in Hangul": "웨어스 더 몰?",
+    "Korean": "쇼핑몰이 어디예요?",
+    "Transliteration": "Syopingmori eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you lower the price?",
+    "English in Hangul": "캔 유 로어 더 프라이스?",
+    "Korean": "가격 깎아줄 수 있나요?",
+    "Transliteration": "Gagyeok kkakka jul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll take it",
+    "English in Hangul": "아일 테이크 잇",
+    "Korean": "이거 살게요",
+    "Transliteration": "Igeo salgeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in black?",
+    "English in Hangul": "두 유 해브 디스 인 블랙?",
+    "Korean": "이거 검은색 있나요?",
+    "Transliteration": "Igeo geomeunsaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a gift",
+    "English in Hangul": "아이 니드 어 기프트",
+    "Korean": "선물이 필요해요",
+    "Transliteration": "Seonmuri piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the exit?",
+    "English in Hangul": "웨어스 더 엑싯?",
+    "Korean": "출구가 어디예요?",
+    "Transliteration": "Chulguga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I pay cash?",
+    "English in Hangul": "캔 아이 페이 캐쉬?",
+    "Korean": "현금으로 결제할 수 있나요?",
+    "Transliteration": "Hyeongeumeuro gyeoljehal su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s too small",
+    "English in Hangul": "잇츠 투 스몰",
+    "Korean": "너무 작아요",
+    "Transliteration": "Neomu jagayo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in white?",
+    "English in Hangul": "두 유 해브 디스 인 화이트?",
+    "Korean": "이거 흰색 있나요?",
+    "Transliteration": "Igeo huinsaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need clothes",
+    "English in Hangul": "아이 니드 클로즈",
+    "Korean": "옷이 필요해요",
+    "Transliteration": "Osi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the entrance?",
+    "English in Hangul": "웨어스 더 엔트런스?",
+    "Korean": "입구가 어디예요?",
+    "Transliteration": "Ipguga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you help me find it?",
+    "English in Hangul": "캔 유 헬프 미 파인드 잇?",
+    "Korean": "찾는 거 도와줄 수 있나요?",
+    "Transliteration": "Chatneun geo dowajul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I don’t like this",
+    "English in Hangul": "아이 돈트 라이크 디스",
+    "Korean": "이거 안 좋아해요",
+    "Transliteration": "Igeo an joahaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in green?",
+    "English in Hangul": "두 유 해브 디스 인 그린?",
+    "Korean": "이거 초록색 있나요?",
+    "Transliteration": "Igeo choroksaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a watch",
+    "English in Hangul": "아이 니드 어 워치",
+    "Korean": "시계가 필요해요",
+    "Transliteration": "Sigyega piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the sale section?",
+    "English in Hangul": "웨어스 더 세일 섹션?",
+    "Korean": "세일 코너가 어디예요?",
+    "Transliteration": "Seil koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I exchange it?",
+    "English in Hangul": "캔 아이 익스체인지 잇?",
+    "Korean": "교환할 수 있나요?",
+    "Transliteration": "Gyohwanhal su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s too big",
+    "English in Hangul": "잇츠 투 빅",
+    "Korean": "너무 커요",
+    "Transliteration": "Neomu keoyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in yellow?",
+    "English in Hangul": "두 유 해브 디스 인 옐로우?",
+    "Korean": "이거 노란색 있나요?",
+    "Transliteration": "Igeo noransaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a jacket",
+    "English in Hangul": "아이 니드 어 재킷",
+    "Korean": "자켓이 필요해요",
+    "Transliteration": "Jaketi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the counter?",
+    "English in Hangul": "웨어스 더 카운터?",
+    "Korean": "카운터가 어디예요?",
+    "Transliteration": "Kaunteoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you hold it for me?",
+    "English in Hangul": "캔 유 홀드 잇 포 미?",
+    "Korean": "잠깐 맡아줄 수 있나요?",
+    "Transliteration": "Jamkkan matajul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll come back later",
+    "English in Hangul": "아일 컴 백 레이터",
+    "Korean": "나중에 다시 올게요",
+    "Transliteration": "Najunge dasi olgeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in purple?",
+    "English in Hangul": "두 유 해브 디스 인 퍼플?",
+    "Korean": "이거 보라색 있나요?",
+    "Transliteration": "Igeo borasaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a hat",
+    "English in Hangul": "아이 니드 어 햇",
+    "Korean": "모자가 필요해요",
+    "Transliteration": "Mojaga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the jewelry section?",
+    "English in Hangul": "웨어스 더 주얼리 섹션?",
+    "Korean": "보석 코너가 어디예요?",
+    "Transliteration": "Boseok koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I see that one?",
+    "English in Hangul": "캔 아이 씨 댓 원?",
+    "Korean": "저거 보여줄 수 있나요?",
+    "Transliteration": "Jeogeo boyeojul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s perfect",
+    "English in Hangul": "잇츠 퍼펙트",
+    "Korean": "완벽해요",
+    "Transliteration": "Wanbyeokhaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in gray?",
+    "English in Hangul": "두 유 해브 디스 인 그레이?",
+    "Korean": "이거 회색 있나요?",
+    "Transliteration": "Igeo hoesaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need socks",
+    "English in Hangul": "아이 니드 삭스",
+    "Korean": "양말이 필요해요",
+    "Transliteration": "Yangmari piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the electronics section?",
+    "English in Hangul": "웨어스 더 일렉트로닉스 섹션?",
+    "Korean": "전자제품 코너가 어디예요?",
+    "Transliteration": "Jeonjajepum koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you check the price?",
+    "English in Hangul": "캔 유 체크 더 프라이스?",
+    "Korean": "가격 확인해줄 수 있나요?",
+    "Transliteration": "Gagyeok hwaginhaejul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I like this one",
+    "English in Hangul": "아이 라이크 디스 원",
+    "Korean": "이거 좋아해요",
+    "Transliteration": "Igeo joahaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in brown?",
+    "English in Hangul": "두 유 해브 디스 인 브라운?",
+    "Korean": "이거 갈색 있나요?",
+    "Transliteration": "Igeo galsaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a belt",
+    "English in Hangul": "아이 니드 어 벨트",
+    "Korean": "벨트가 필요해요",
+    "Transliteration": "Belteuga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the toy section?",
+    "English in Hangul": "웨어스 더 토이 섹션?",
+    "Korean": "장난감 코너가 어디예요?",
+    "Transliteration": "Jangnangam koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you bag it separately?",
+    "English in Hangul": "캔 유 백 잇 세퍼릿리?",
+    "Korean": "따로 포장해줄 수 있나요?",
+    "Transliteration": "Ttaro pojanghaejul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s cheap",
+    "English in Hangul": "잇츠 칩",
+    "Korean": "싸요",
+    "Transliteration": "Ssayo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in pink?",
+    "English in Hangul": "두 유 해브 디스 인 핑크?",
+    "Korean": "이거 핑크색 있나요?",
+    "Transliteration": "Igeo pingkeusaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a scarf",
+    "English in Hangul": "아이 니드 어 스카프",
+    "Korean": "스카프가 필요해요",
+    "Transliteration": "Seukapeuga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the book section?",
+    "English in Hangul": "웨어스 더 북 섹션?",
+    "Korean": "책 코너가 어디예요?",
+    "Transliteration": "Chaek koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I use a coupon?",
+    "English in Hangul": "캔 아이 유즈 어 쿠폰?",
+    "Korean": "쿠폰 사용할 수 있나요?",
+    "Transliteration": "Kupon sayonghal su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s nice",
+    "English in Hangul": "잇츠 나이스",
+    "Korean": "좋아요",
+    "Transliteration": "Joayo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in orange?",
+    "English in Hangul": "두 유 해브 디스 인 오렌지?",
+    "Korean": "이거 주황색 있나요?",
+    "Transliteration": "Igeo juhwangsaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need glasses",
+    "English in Hangul": "아이 니드 글래시즈",
+    "Korean": "안경이 필요해요",
+    "Transliteration": "Angyeongi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the food section?",
+    "English in Hangul": "웨어스 더 푸드 섹션?",
+    "Korean": "식품 코너가 어디예요?",
+    "Transliteration": "Sikpum koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you hurry?",
+    "English in Hangul": "캔 유 허리?",
+    "Korean": "빨리해줄 수 있나요?",
+    "Transliteration": "Ppallihaejul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll think about it",
+    "English in Hangul": "아일 씽크 어바웃 잇",
+    "Korean": "생각해볼게요",
+    "Transliteration": "Saenggakhaebolgeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in gold?",
+    "English in Hangul": "두 유 해브 디스 인 골드?",
+    "Korean": "이거 금색 있나요?",
+    "Transliteration": "Igeo geumsaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a wallet",
+    "English in Hangul": "아이 니드 어 월릿",
+    "Korean": "지갑이 필요해요",
+    "Transliteration": "Jigabi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the home section?",
+    "English in Hangul": "웨어스 더 홈 섹션?",
+    "Korean": "가정用品 코너가 어디예요?",
+    "Transliteration": "Gajeongyongpum koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I pay later?",
+    "English in Hangul": "캔 아이 페이 레이터?",
+    "Korean": "나중에 결제할 수 있나요?",
+    "Transliteration": "Najunge gyeoljehal su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s stylish",
+    "English in Hangul": "잇츠 스타일리쉬",
+    "Korean": "멋져요",
+    "Transliteration": "Meotjyeoyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in silver?",
+    "English in Hangul": "두 유 해브 디스 인 실버?",
+    "Korean": "이거 은색 있나요?",
+    "Transliteration": "Igeo eunsaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a phone case",
+    "English in Hangul": "아이 니드 어 폰 케이스",
+    "Korean": "폰 케이스가 필요해요",
+    "Transliteration": "Pon keiseuga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the sports section?",
+    "English in Hangul": "웨어스 더 스포츠 섹션?",
+    "Korean": "스포츠 코너가 어디예요?",
+    "Transliteration": "Seupocheu koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you show me more?",
+    "English in Hangul": "캔 유 쇼 미 모어?",
+    "Korean": "더 보여줄 수 있나요?",
+    "Transliteration": "Deo boyeojul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I want a souvenir",
+    "English in Hangul": "아이 원트 어 수브니어",
+    "Korean": "기념품 사고 싶어요",
+    "Transliteration": "Ginyeompum sago sipeoyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Is it in stock?",
+    "English in Hangul": "이즈 잇 인 스탁?",
+    "Korean": "재고 있나요?",
+    "Transliteration": "Jaego innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a dress",
+    "English in Hangul": "아이 니드 어 드레스",
+    "Korean": "드레스가 필요해요",
+    "Transliteration": "Deureseuga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the beauty section?",
+    "English in Hangul": "웨어스 더 뷰티 섹션?",
+    "Korean": "미용 코너가 어디예요?",
+    "Transliteration": "Miyong koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I get it delivered?",
+    "English in Hangul": "캔 아이 겟 잇 딜리버드?",
+    "Korean": "배달해줄 수 있나요?",
+    "Transliteration": "Baedalhaejul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s a good deal",
+    "English in Hangul": "잇츠 어 굿 딜",
+    "Korean": "괜찮은 거래예요",
+    "Transliteration": "Gwaenchaneun georaeyeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in beige?",
+    "English in Hangul": "두 유 해브 디스 인 베이지?",
+    "Korean": "이거 베이지색 있나요?",
+    "Transliteration": "Igeo beijisaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need pants",
+    "English in Hangul": "아이 니드 팬츠",
+    "Korean": "바지가 필요해요",
+    "Transliteration": "Bajiga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the kids’ section?",
+    "English in Hangul": "웨어스 더 키즈 섹션?",
+    "Korean": "아동 코너가 어디예요?",
+    "Transliteration": "Adong koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you find it for me?",
+    "English in Hangul": "캔 유 파인드 잇 포 미?",
+    "Korean": "찾아줄 수 있나요?",
+    "Transliteration": "Chajajul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I’ll buy two",
+    "English in Hangul": "아일 바이 투",
+    "Korean": "두 개 살게요",
+    "Transliteration": "Du gae salgeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Is it authentic?",
+    "English in Hangul": "이즈 잇 어센틱?",
+    "Korean": "진짜인가요?",
+    "Transliteration": "Jinjjain-gayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a shirt",
+    "English in Hangul": "아이 니드 어 셔츠",
+    "Korean": "셔츠가 필요해요",
+    "Transliteration": "Syeocheuga piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the pet section?",
+    "English in Hangul": "웨어스 더 펫 섹션?",
+    "Korean": "애완동물 코너가 어디예요?",
+    "Transliteration": "Aewandongmul koneoga eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can I order online?",
+    "English in Hangul": "캔 아이 오더 온라인?",
+    "Korean": "온라인으로 주문할 수 있나요?",
+    "Transliteration": "Onrain-euro jumunhal su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "It’s worth it",
+    "English in Hangul": "잇츠 워스 잇",
+    "Korean": "가치 있어요",
+    "Transliteration": "Gachi isseoyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Do you have this in teal?",
+    "English in Hangul": "두 유 해브 디스 인 틸?",
+    "Korean": "이거 청록색 있나요?",
+    "Transliteration": "Igeo cheongnoksaek innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I need a backpack",
+    "English in Hangul": "아이 니드 어 백팩",
+    "Korean": "배낭이 필요해요",
+    "Transliteration": "Baenangi piryohaeyo"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Where’s the checkout?",
+    "English in Hangul": "웨어스 더 체크아웃?",
+    "Korean": "계산대가 어디예요?",
+    "Transliteration": "Gyesandaega eodiyeyo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "Can you gift-wrap it?",
+    "English in Hangul": "캔 유 기프트-랩 잇?",
+    "Korean": "선물 포장해줄 수 있나요?",
+    "Transliteration": "Seonmul pojanghaejul su innayo?"
+  },
+  {
+    "Category": "Shopping",
+    "English": "I love this",
+    "English in Hangul": "아이 러브 디스",
+    "Korean": "이거 정말 좋아해요",
+    "Transliteration": "Igeo jeongmal joahaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m sick",
+    "English in Hangul": "아임 식",
+    "Korean": "저 아파요",
+    "Transliteration": "Jeo apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a doctor",
+    "English in Hangul": "아이 니드 어 닥터",
+    "Korean": "의사가 필요해요",
+    "Transliteration": "Uisaga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My head hurts",
+    "English in Hangul": "마이 헤드 허츠",
+    "Korean": "머리가 아파요",
+    "Transliteration": "Meoriga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a fever",
+    "English in Hangul": "아이 해브 어 피버",
+    "Korean": "열이 나요",
+    "Transliteration": "Yeori nayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I can’t sleep",
+    "English in Hangul": "아이 캔트 슬립",
+    "Korean": "잠을 못 자요",
+    "Transliteration": "Jameul mot jayo"
+  },
+  {
+    "Category": "Health",
+    "English": "My stomach hurts",
+    "English in Hangul": "마이 스토막 허츠",
+    "Korean": "배고프세요",
+    "Transliteration": "Baegopeuseyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need medicine",
+    "English in Hangul": "아이 니드 메디신",
+    "Korean": "약이 필요해요",
+    "Transliteration": "Yagi piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m dizzy",
+    "English in Hangul": "아임 디지",
+    "Korean": "어지러워요",
+    "Transliteration": "Eojireowoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "Where’s the pharmacy?",
+    "English in Hangul": "웨어스 더 파머시?",
+    "Korean": "약국이 어디예요?",
+    "Transliteration": "Yakgugi eodiyeyo?"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m coughing",
+    "English in Hangul": "아임 커핑",
+    "Korean": "기침해요",
+    "Transliteration": "Gichimhaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a cold",
+    "English in Hangul": "아이 해브 어 콜드",
+    "Korean": "감기에 걸렸어요",
+    "Transliteration": "Gamgie geollyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My throat hurts",
+    "English in Hangul": "마이 스로트 허츠",
+    "Korean": "목이 아파요",
+    "Transliteration": "Mogi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a bandage",
+    "English in Hangul": "아이 니드 어 밴디지",
+    "Korean": "붕대가 필요해요",
+    "Transliteration": "Bungdaega piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m bleeding",
+    "English in Hangul": "아임 블리딩",
+    "Korean": "피가 나요",
+    "Transliteration": "Piga nayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I can’t breathe",
+    "English in Hangul": "아이 캔트 브리드",
+    "Korean": "숨을 쉴 수 없어요",
+    "Transliteration": "Sumeul swil su eopseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My back hurts",
+    "English in Hangul": "마이 백 허츠",
+    "Korean": "허리가 아파요",
+    "Transliteration": "Heoriga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need an ambulance",
+    "English in Hangul": "아이 니드 앤 앰뷸런스",
+    "Korean": "구급차가 필요해요",
+    "Transliteration": "Gugeupchaga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m allergic",
+    "English in Hangul": "아임 얼러직",
+    "Korean": "알레르기가 있어요",
+    "Transliteration": "Allereugiga isseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My leg hurts",
+    "English in Hangul": "마이 레그 허츠",
+    "Korean": "다리가 아파요",
+    "Transliteration": "Dariga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel weak",
+    "English in Hangul": "아이 필 윅",
+    "Korean": "약해요",
+    "Transliteration": "Yakhaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "Where’s the hospital?",
+    "English in Hangul": "웨어스 더 하스피털?",
+    "Korean": "병원이 어디예요?",
+    "Transliteration": "Byeongwoni eodiyeyo?"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a rash",
+    "English in Hangul": "아이 해브 어 래쉬",
+    "Korean": "발진이 났어요",
+    "Transliteration": "Baljini nasseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My chest hurts",
+    "English in Hangul": "마이 체스트 허츠",
+    "Korean": "가슴이 아파요",
+    "Transliteration": "Gaseumi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need water",
+    "English in Hangul": "아이 니드 워터",
+    "Korean": "물이 필요해요",
+    "Transliteration": "Muri piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m vomiting",
+    "English in Hangul": "아임 바미팅",
+    "Korean": "토하고 있어요",
+    "Transliteration": "Tohago isseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have diarrhea",
+    "English in Hangul": "아이 해브 다이어리아",
+    "Korean": "설사해요",
+    "Transliteration": "Seolsahaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My arm hurts",
+    "English in Hangul": "마이 암 허츠",
+    "Korean": "팔이 아파요",
+    "Transliteration": "Pari apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a painkiller",
+    "English in Hangul": "아이 니드 어 페인킬러",
+    "Korean": "진통제가 필요해요",
+    "Transliteration": "Jintongjega piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m sneezing",
+    "English in Hangul": "아임 스니징",
+    "Korean": "재채기해요",
+    "Transliteration": "Jaechaegihaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I broke my leg",
+    "English in Hangul": "아이 브로크 마이 레그",
+    "Korean": "다리가 부러졌어요",
+    "Transliteration": "Dariga bureojyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My eyes hurt",
+    "English in Hangul": "마이 아이즈 허츠",
+    "Korean": "눈이 아파요",
+    "Transliteration": "Nuni apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a nurse",
+    "English in Hangul": "아이 니드 어 너스",
+    "Korean": "간호사가 필요해요",
+    "Transliteration": "Ganhosaga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel tired",
+    "English in Hangul": "아이 필 타이어드",
+    "Korean": "피곤해요",
+    "Transliteration": "Pigonhaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a headache",
+    "English in Hangul": "아이 해브 어 헤드에이크",
+    "Korean": "두통이 있어요",
+    "Transliteration": "Dutongi isseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My nose is runny",
+    "English in Hangul": "마이 노즈 이즈 러니",
+    "Korean": "콧물이 나요",
+    "Transliteration": "Konmuri nayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a thermometer",
+    "English in Hangul": "아이 니드 어 써모미터",
+    "Korean": "체온계가 필요해요",
+    "Transliteration": "Cheonge gyega piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m shaking",
+    "English in Hangul": "아임 셰이킹",
+    "Korean": "떨려요",
+    "Transliteration": "Tteollyeoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a toothache",
+    "English in Hangul": "아이 해브 어 투스에이크",
+    "Korean": "치통이 있어요",
+    "Transliteration": "Chitongi isseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My ears hurt",
+    "English in Hangul": "마이 이어스 허츠",
+    "Korean": "귀가 아파요",
+    "Transliteration": "Gwiga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a dentist",
+    "English in Hangul": "아이 니드 어 덴티스트",
+    "Korean": "치과 의사가 필요해요",
+    "Transliteration": "Chikwa uisaga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel nauseous",
+    "English in Hangul": "아이 필 노셔스",
+    "Korean": "속이 메스꺼워요",
+    "Transliteration": "Sogi mesukkeowoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a cut",
+    "English in Hangul": "아이 해브 어 컷",
+    "Korean": "베였어요",
+    "Transliteration": "Beyesseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My hand hurts",
+    "English in Hangul": "마이 핸드 허츠",
+    "Korean": "손이 아파요",
+    "Transliteration": "Soni apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need ice",
+    "English in Hangul": "아이 니드 아이스",
+    "Korean": "얼음이 필요해요",
+    "Transliteration": "Eoreumi piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m sweating",
+    "English in Hangul": "아임 스웨팅",
+    "Korean": "땀이 나요",
+    "Transliteration": "Ttami nayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a stomachache",
+    "English in Hangul": "아이 해브 어 스토막에이크",
+    "Korean": "배탈이 났어요",
+    "Transliteration": "Baetari nasseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My neck hurts",
+    "English in Hangul": "마이 넥 허츠",
+    "Korean": "목이 뻐근해요",
+    "Transliteration": "Mogi ppeogeunhaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a mask",
+    "English in Hangul": "아이 니드 어 마스크",
+    "Korean": "마스크가 필요해요",
+    "Transliteration": "Maseukeuga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m burning up",
+    "English in Hangul": "아임 버닝 업",
+    "Korean": "몸이 뜨거워요",
+    "Transliteration": "Momi tteugeowoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a bruise",
+    "English in Hangul": "아이 해브 어 브루즈",
+    "Korean": "멍이 들었어요",
+    "Transliteration": "Meongi deureosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My shoulder hurts",
+    "English in Hangul": "마이 숄더 허츠",
+    "Korean": "어깨가 아파요",
+    "Transliteration": "Eokkaega apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a wheelchair",
+    "English in Hangul": "아이 니드 어 휠체어",
+    "Korean": "휠체어가 필요해요",
+    "Transliteration": "Hwilche eoga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel faint",
+    "English in Hangul": "아이 필 페인트",
+    "Korean": "기절할 것 같아요",
+    "Transliteration": "Gijeolhal geot gatayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have an infection",
+    "English in Hangul": "아이 해브 앤 인펙션",
+    "Korean": "감염됐어요",
+    "Transliteration": "Gamyeomdwaesseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My foot hurts",
+    "English in Hangul": "마이 풋 허츠",
+    "Korean": "발이 아파요",
+    "Transliteration": "Bari apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a blanket",
+    "English in Hangul": "아이 니드 어 블랭킷",
+    "Korean": "담요가 필요해요",
+    "Transliteration": "Damyoga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m dehydrated",
+    "English in Hangul": "아임 디하이드레이티드",
+    "Korean": "탈수됐어요",
+    "Transliteration": "Talsudwaesseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have allergies",
+    "English in Hangul": "아이 해브 얼러지스",
+    "Korean": "알레르기가 있어요",
+    "Transliteration": "Allereugiga isseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My knee hurts",
+    "English in Hangul": "마이 니 허츠",
+    "Korean": "무릎이 아파요",
+    "Transliteration": "Mureupi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a test",
+    "English in Hangul": "아이 니드 어 테스트",
+    "Korean": "검사가 필요해요",
+    "Transliteration": "Geomsaga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m in pain",
+    "English in Hangul": "아임 인 페인",
+    "Korean": "아파요",
+    "Transliteration": "Apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a sore throat",
+    "English in Hangul": "아이 해브 어 소어 스로트",
+    "Korean": "목이 따끔해요",
+    "Transliteration": "Mogi ttakkeumhaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My finger hurts",
+    "English in Hangul": "마이 핑거 허츠",
+    "Korean": "손가락이 아파요",
+    "Transliteration": "Songaragi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a tissue",
+    "English in Hangul": "아이 니드 어 티슈",
+    "Korean": "휴지가 필요해요",
+    "Transliteration": "Hyujiga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m itchy",
+    "English in Hangul": "아임 이치",
+    "Korean": "가려워요",
+    "Transliteration": "Garyeowoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a burn",
+    "English in Hangul": "아이 해브 어 번",
+    "Korean": "화상을 입었어요",
+    "Transliteration": "Hwasangeul ibeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My elbow hurts",
+    "English in Hangul": "마이 엘보우 허츠",
+    "Korean": "팔꿈치가 아파요",
+    "Transliteration": "Palkkumchiga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need ointment",
+    "English in Hangul": "아이 니드 오인트먼트",
+    "Korean": "연고가 필요해요",
+    "Transliteration": "Yeongoga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m congested",
+    "English in Hangul": "아임 컨제스티드",
+    "Korean": "코가 막혔어요",
+    "Transliteration": "Koga makyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a sprain",
+    "English in Hangul": "아이 해브 어 스프레인",
+    "Korean": "염좌가 됐어요",
+    "Transliteration": "Yeomjwaga dwaesseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My wrist hurts",
+    "English in Hangul": "마이 리스트 허츠",
+    "Korean": "손목이 아파요",
+    "Transliteration": "Sonmogi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a shot",
+    "English in Hangul": "아이 니드 어 샷",
+    "Korean": "주사가 필요해요",
+    "Transliteration": "Jusaga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel cold",
+    "English in Hangul": "아이 필 콜드",
+    "Korean": "추워요",
+    "Transliteration": "Chuwoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a blister",
+    "English in Hangul": "아이 해브 어 블리스터",
+    "Korean": "물집이 생겼어요",
+    "Transliteration": "Muljibi saenggyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My ankle hurts",
+    "English in Hangul": "마이 앵클 허츠",
+    "Korean": "발목이 아파요",
+    "Transliteration": "Balmogi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a pillow",
+    "English in Hangul": "아이 니드 어 필로우",
+    "Korean": "베개가 필요해요",
+    "Transliteration": "Begaega piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m stressed",
+    "English in Hangul": "아임 스트레스트",
+    "Korean": "스트레스 받아요",
+    "Transliteration": "Seuteureseu badayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a cramp",
+    "English in Hangul": "아이 해브 어 크램프",
+    "Korean": "경련이 일어났어요",
+    "Transliteration": "Gyeongnyeoni ireonasseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My hip hurts",
+    "English in Hangul": "마이 힙 허츠",
+    "Korean": "엉덩이가 아파요",
+    "Transliteration": "Eongdeongiga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a brace",
+    "English in Hangul": "아이 니드 어 브레이스",
+    "Korean": "보조기가 필요해요",
+    "Transliteration": "Bojogiga piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m nervous",
+    "English in Hangul": "아임 너버스",
+    "Korean": "긴장돼요",
+    "Transliteration": "Ginjangdwaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a fracture",
+    "English in Hangul": "아이 해브 어 프랙처",
+    "Korean": "골절됐어요",
+    "Transliteration": "Goljeoldwaesseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My jaw hurts",
+    "English in Hangul": "마이 조 허츠",
+    "Korean": "턱이 아파요",
+    "Transliteration": "Teogi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need surgery",
+    "English in Hangul": "아이 니드 서저리",
+    "Korean": "수술이 필요해요",
+    "Transliteration": "Susuri piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel hot",
+    "English in Hangul": "아이 필 핫",
+    "Korean": "더워요",
+    "Transliteration": "Deowoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a sting",
+    "English in Hangul": "아이 해브 어 스팅",
+    "Korean": "찔렸어요",
+    "Transliteration": "Jjillyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My tongue hurts",
+    "English in Hangul": "마이 텅 허츠",
+    "Korean": "혀가 아파요",
+    "Transliteration": "Hyeoga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need glasses",
+    "English in Hangul": "아이 니드 글래시즈",
+    "Korean": "안경이 필요해요",
+    "Transliteration": "Angyeongi piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m losing hair",
+    "English in Hangul": "아임 루징 헤어",
+    "Korean": "머리가 빠져요",
+    "Transliteration": "Meoriga ppajyeoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a bite",
+    "English in Hangul": "아이 해브 어 바이트",
+    "Korean": "물렸어요",
+    "Transliteration": "Mullyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My skin hurts",
+    "English in Hangul": "마이 스킨 허츠",
+    "Korean": "피부가 아파요",
+    "Transliteration": "Pibuga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need cream",
+    "English in Hangul": "아이 니드 크림",
+    "Korean": "크림이 필요해요",
+    "Transliteration": "Keurimi piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I’m hoarse",
+    "English in Hangul": "아임 호스",
+    "Korean": "목이 쉬었어요",
+    "Transliteration": "Mogi swieosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a lump",
+    "English in Hangul": "아이 해브 어 럼프",
+    "Korean": "혹이 생겼어요",
+    "Transliteration": "Hogi saenggyeosseoyo"
+  },
+  {
+    "Category": "Health",
+    "English": "My ribs hurt",
+    "English in Hangul": "마이 립스 허츠",
+    "Korean": "갈비뼈가 아파요",
+    "Transliteration": "Galbippyeoga apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need a check-up",
+    "English in Hangul": "아이 니드 어 체크-업",
+    "Korean": "검진이 필요해요",
+    "Transliteration": "Geomjini piryohaeyo"
+  },
+  {
+    "Category": "Health",
+    "English": "I feel unwell",
+    "English in Hangul": "아이 필 언웰",
+    "Korean": "몸이 안 좋아요",
+    "Transliteration": "Momi an joayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I have a cough",
+    "English in Hangul": "아이 해브 어 커프",
+    "Korean": "기침이 나요",
+    "Transliteration": "Gichimi nayo"
+  },
+  {
+    "Category": "Health",
+    "English": "My heart hurts",
+    "English in Hangul": "마이 하트 허츠",
+    "Korean": "심장이 아파요",
+    "Transliteration": "Simjangi apayo"
+  },
+  {
+    "Category": "Health",
+    "English": "I need help",
+    "English in Hangul": "아이 니드 헬프",
+    "Korean": "도움이 필요해요",
+    "Transliteration": "Doumi piryohaeyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where am I?",
+    "English in Hangul": "웨어 앰 아이?",
+    "Korean": "여기가 어디예요?",
+    "Transliteration": "Yeogiga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "How do I get there?",
+    "English in Hangul": "하우 두 아이 겟 데어?",
+    "Korean": "거기 어떻게 가요?",
+    "Transliteration": "Geogi eotteoke gayo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn left",
+    "English in Hangul": "턴 레프트",
+    "Korean": "왼쪽으로 돌세요",
+    "Transliteration": "Oenjjogeuro dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn right",
+    "English in Hangul": "턴 라이트",
+    "Korean": "오른쪽으로 돌세요",
+    "Transliteration": "Oreunjjogeuro dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go straight",
+    "English in Hangul": "고 스트레이트",
+    "Korean": "직진하세요",
+    "Transliteration": "Jikjinhaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Is it far?",
+    "English in Hangul": "이즈 잇 파?",
+    "Korean": "멀어요?",
+    "Transliteration": "Meoreoyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "I’m lost",
+    "English in Hangul": "아임 로스트",
+    "Korean": "길을 잃었어요",
+    "Transliteration": "Gireul ilheosseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the station?",
+    "English in Hangul": "웨어스 더 스테이션?",
+    "Korean": "역이 어디예요?",
+    "Transliteration": "Yeogi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Can you show me?",
+    "English in Hangul": "캔 유 쇼 미?",
+    "Korean": "보여줄 수 있나요?",
+    "Transliteration": "Boyeojul su innayo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go back",
+    "English in Hangul": "고 백",
+    "Korean": "돌아가세요",
+    "Transliteration": "Doragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s nearby",
+    "English in Hangul": "잇츠 니어바이",
+    "Korean": "가까이에 있어요",
+    "Transliteration": "Gakkaie isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the bathroom?",
+    "English in Hangul": "웨어스 더 배스룸?",
+    "Korean": "화장실이 어디예요?",
+    "Transliteration": "Hwajangsiri eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Cross the street",
+    "English in Hangul": "크로스 더 스트리트",
+    "Korean": "길을 건너세요",
+    "Transliteration": "Gireul geonneoseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "How far is it?",
+    "English in Hangul": "하우 파 이즈 잇?",
+    "Korean": "얼마나 멀어요?",
+    "Transliteration": "Eolmana meoreoyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "I need a map",
+    "English in Hangul": "아이 니드 어 맵",
+    "Korean": "지도가 필요해요",
+    "Transliteration": "Jidoga piryohaeyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the exit?",
+    "English in Hangul": "웨어스 더 엑싯?",
+    "Korean": "출구가 어디예요?",
+    "Transliteration": "Chulguga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go up",
+    "English in Hangul": "고 업",
+    "Korean": "올라가세요",
+    "Transliteration": "Ollagaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go down",
+    "English in Hangul": "고 다운",
+    "Korean": "내려가세요",
+    "Transliteration": "Naeryeogaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s over there",
+    "English in Hangul": "잇츠 오버 데어",
+    "Korean": "저기 있어요",
+    "Transliteration": "Jeogi isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the hotel?",
+    "English in Hangul": "웨어스 더 호텔?",
+    "Korean": "호텔이 어디예요?",
+    "Transliteration": "Hoteli eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the first left",
+    "English in Hangul": "테이크 더 퍼스트 레프트",
+    "Korean": "첫 번째 왼쪽으로 가세요",
+    "Transliteration": "Cheot beonjjae oenjjogeuro gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the second right",
+    "English in Hangul": "테이크 더 세컨드 라이트",
+    "Korean": "두 번째 오른쪽으로 가세요",
+    "Transliteration": "Du beonjjae oreunjjogeuro gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s on the left",
+    "English in Hangul": "잇츠 온 더 레프트",
+    "Korean": "왼쪽에 있어요",
+    "Transliteration": "Oenjjoge isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s on the right",
+    "English in Hangul": "잇츠 온 더 라이트",
+    "Korean": "오른쪽에 있어요",
+    "Transliteration": "Oreunjjoge isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the bus stop?",
+    "English in Hangul": "웨어스 더 버스 스탑?",
+    "Korean": "버스 정류장이 어디예요?",
+    "Transliteration": "Beoseu jeongnyujangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go past the park",
+    "English in Hangul": "고 패스트 더 파크",
+    "Korean": "공원을 지나세요",
+    "Transliteration": "Gongwoneul jinaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Is this the way?",
+    "English in Hangul": "이즈 디스 더 웨이?",
+    "Korean": "이 길이 맞나요?",
+    "Transliteration": "I giri matnayo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the entrance?",
+    "English in Hangul": "웨어스 더 엔트런스?",
+    "Korean": "입구가 어디예요?",
+    "Transliteration": "Ipguga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Keep going",
+    "English in Hangul": "킵 고잉",
+    "Korean": "계속 가세요",
+    "Transliteration": "Gyesok gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s around the corner",
+    "English in Hangul": "잇츠 어라운드 더 코너",
+    "Korean": "모퉁이 근처예요",
+    "Transliteration": "Motungi geuncheoyeyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the airport?",
+    "English in Hangul": "웨어스 더 에어포트?",
+    "Korean": "공항이 어디예요?",
+    "Transliteration": "Gonghangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn at the light",
+    "English in Hangul": "턴 앳 더 라이트",
+    "Korean": "신호등에서 돌세요",
+    "Transliteration": "Sinhodeung-eseo dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s across the bridge",
+    "English in Hangul": "잇츠 어크로스 더 브릿지",
+    "Korean": "다리 건너편에 있어요",
+    "Transliteration": "Dari geonneopyeone isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the museum?",
+    "English in Hangul": "웨어스 더 뮤지엄?",
+    "Korean": "박물관이 어디예요?",
+    "Transliteration": "Bangmulgwani eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go through the tunnel",
+    "English in Hangul": "고 스루 더 터널",
+    "Korean": "터널을 통과하세요",
+    "Transliteration": "Teoneoreul tonggwahaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s next to the bank",
+    "English in Hangul": "잇츠 넥스트 투 더 뱅크",
+    "Korean": "은행 옆에 있어요",
+    "Transliteration": "Eunhaeng yeope isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the park?",
+    "English in Hangul": "웨어스 더 파크?",
+    "Korean": "공원이 어디예요?",
+    "Transliteration": "Gongwoni eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Follow the road",
+    "English in Hangul": "팔로우 더 로드",
+    "Korean": "길을 따라가세요",
+    "Transliteration": "Gireul ttaragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s behind the building",
+    "English in Hangul": "잇츠 비하인드 더 빌딩",
+    "Korean": "건물 뒤에 있어요",
+    "Transliteration": "Geonmul dwie isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the restaurant?",
+    "English in Hangul": "웨어스 더 레스토랑?",
+    "Korean": "식당이 어디예요?",
+    "Transliteration": "Sikdangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the stairs",
+    "English in Hangul": "테이크 더 스테어스",
+    "Korean": "계단으로 가세요",
+    "Transliteration": "Gyedaneuro gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s in front of the store",
+    "English in Hangul": "잇츠 인 프런트 오브 더 스토어",
+    "Korean": "가게 앞에 있어요",
+    "Transliteration": "Gage ape isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the mall?",
+    "English in Hangul": "웨어스 더 몰?",
+    "Korean": "쇼핑몰이 어디예요?",
+    "Transliteration": "Syopingmori eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go along the river",
+    "English in Hangul": "고 얼롱 더 리버",
+    "Korean": "강을 따라가세요",
+    "Transliteration": "Gangeul ttaragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s opposite the school",
+    "English in Hangul": "잇츠 오퍼짓 더 스쿨",
+    "Korean": "학교 맞은편에 있어요",
+    "Transliteration": "Hakgyo majeunpyeone isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the hospital?",
+    "English in Hangul": "웨어스 더 하스피털?",
+    "Korean": "병원이 어디예요?",
+    "Transliteration": "Byeongwoni eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn at the corner",
+    "English in Hangul": "턴 앳 더 코너",
+    "Korean": "모퉁이에서 돌세요",
+    "Transliteration": "Motung-ieseo dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s near the station",
+    "English in Hangul": "잇츠 니어 더 스테이션",
+    "Korean": "역 근처에 있어요",
+    "Transliteration": "Yeok geuncheoe isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the beach?",
+    "English in Hangul": "웨어스 더 비치?",
+    "Korean": "해변이 어디예요?",
+    "Transliteration": "Haebyeoni eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go under the bridge",
+    "English in Hangul": "고 언더 더 브릿지",
+    "Korean": "다리 아래로 가세요",
+    "Transliteration": "Dari araero gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s beside the river",
+    "English in Hangul": "잇츠 비사이드 더 리버",
+    "Korean": "강 옆에 있어요",
+    "Transliteration": "Gang yeope isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the library?",
+    "English in Hangul": "웨어스 더 라이브러리?",
+    "Korean": "도서관이 어디예요?",
+    "Transliteration": "Doseogwani eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the elevator",
+    "English in Hangul": "테이크 더 엘리베이터",
+    "Korean": "엘리베이터를 타세요",
+    "Transliteration": "Ellibeiteoreul taseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s past the church",
+    "English in Hangul": "잇츠 패스트 더 처치",
+    "Korean": "교회를 지나세요",
+    "Transliteration": "Gyohoereul jinaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the pharmacy?",
+    "English in Hangul": "웨어스 더 파머시?",
+    "Korean": "약국이 어디예요?",
+    "Transliteration": "Yakgugi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go around the square",
+    "English in Hangul": "고 어라운드 더 스퀘어",
+    "Korean": "광장을 돌아가세요",
+    "Transliteration": "Gwangjangeul doragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s at the end of the street",
+    "English in Hangul": "잇츠 앳 더 엔드 오브 더 스트리트",
+    "Korean": "거리 끝에 있어요",
+    "Transliteration": "Geori kkeute isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the subway?",
+    "English in Hangul": "웨어스 더 서브웨이?",
+    "Korean": "지하철이 어디예요?",
+    "Transliteration": "Jihacheori eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn after the sign",
+    "English in Hangul": "턴 애프터 더 사인",
+    "Korean": "표지판 후에 돌세요",
+    "Transliteration": "Pyoipyan hue dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s close to the market",
+    "English in Hangul": "잇츠 클로즈 투 더 마켓",
+    "Korean": "시장 근처에 있어요",
+    "Transliteration": "Sijang geuncheoe isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the bridge?",
+    "English in Hangul": "웨어스 더 브릿지?",
+    "Korean": "다리가 어디예요?",
+    "Transliteration": "Dariga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go over the hill",
+    "English in Hangul": "고 오버 더 힐",
+    "Korean": "언덕을 넘어가세요",
+    "Transliteration": "Eondeogeul neomeogaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s by the lake",
+    "English in Hangul": "잇츠 바이 더 레이크",
+    "Korean": "호수 옆에 있어요",
+    "Transliteration": "Hosu yeope isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the city center?",
+    "English in Hangul": "웨어스 더 시티 센터?",
+    "Korean": "도심이 어디예요?",
+    "Transliteration": "Dosimi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the third exit",
+    "English in Hangul": "테이크 더 써드 엑싯",
+    "Korean": "세 번째 출구로 가세요",
+    "Transliteration": "Se beonjjae chulguro gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s between the buildings",
+    "English in Hangul": "잇츠 비트윈 더 빌딩스",
+    "Korean": "건물들 사이에 있어요",
+    "Transliteration": "Geonmuldeul saie isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the theater?",
+    "English in Hangul": "웨어스 더 씨어터?",
+    "Korean": "극장이 어디예요?",
+    "Transliteration": "Geukjangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go toward the tower",
+    "English in Hangul": "고 투워드 더 타워",
+    "Korean": "탑 쪽으로 가세요",
+    "Transliteration": "Tap jjogeuro gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s across from the park",
+    "English in Hangul": "잇츠 어크로스 프롬 더 파크",
+    "Korean": "공원 맞은편에 있어요",
+    "Transliteration": "Gongwon majeunpyeone isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the bank?",
+    "English in Hangul": "웨어스 더 뱅크?",
+    "Korean": "은행이 어디예요?",
+    "Transliteration": "Eunhaengi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn before the light",
+    "English in Hangul": "턴 비포 더 라이트",
+    "Korean": "신호등 전에 돌세요",
+    "Transliteration": "Sinhodeung jeone dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s near the river",
+    "English in Hangul": "잇츠 니어 더 리버",
+    "Korean": "강 근처에 있어요",
+    "Transliteration": "Gang geuncheoe isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the post office?",
+    "English in Hangul": "웨어스 더 포스트 오피스?",
+    "Korean": "우체국이 어디예요?",
+    "Transliteration": "Uchegugi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go past the statue",
+    "English in Hangul": "고 패스트 더 스태츄",
+    "Korean": "조각상을 지나세요",
+    "Transliteration": "Jogaksangeul jinaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s on the corner",
+    "English in Hangul": "잇츠 온 더 코너",
+    "Korean": "모퉁이에 있어요",
+    "Transliteration": "Motung-ie isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the school?",
+    "English in Hangul": "웨어스 더 스쿨?",
+    "Korean": "학교가 어디예요?",
+    "Transliteration": "Hakgyoga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the path",
+    "English in Hangul": "테이크 더 패스",
+    "Korean": "길을 따라가세요",
+    "Transliteration": "Gireul ttaragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s behind the hill",
+    "English in Hangul": "잇츠 비하인드 더 힐",
+    "Korean": "언덕 뒤에 있어요",
+    "Transliteration": "Eondeok dwie isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the harbor?",
+    "English in Hangul": "웨어스 더 하버?",
+    "Korean": "항구가 어디예요?",
+    "Transliteration": "Hangguga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go along the wall",
+    "English in Hangul": "고 얼롱 더 월",
+    "Korean": "벽을 따라가세요",
+    "Transliteration": "Byeogeul ttaragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s next to the bridge",
+    "English in Hangul": "잇츠 넥스트 투 더 브릿지",
+    "Korean": "다리 옆에 있어요",
+    "Transliteration": "Dari yeope isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the market?",
+    "English in Hangul": "웨어스 더 마켓?",
+    "Korean": "시장이 어디예요?",
+    "Transliteration": "Sijangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn at the intersection",
+    "English in Hangul": "턴 앳 더 인터섹션",
+    "Korean": "교차로에서 돌세요",
+    "Transliteration": "Gyocharo-eseo dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s in the alley",
+    "English in Hangul": "잇츠 인 더 앨리",
+    "Korean": "골목에 있어요",
+    "Transliteration": "Golmoge isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the castle?",
+    "English in Hangul": "웨어스 더 캐슬?",
+    "Korean": "성이 어디예요?",
+    "Transliteration": "Seongi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go up the hill",
+    "English in Hangul": "고 업 더 힐",
+    "Korean": "언덕 위로 가세요",
+    "Transliteration": "Eondeok wiro gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s near the tower",
+    "English in Hangul": "잇츠 니어 더 타워",
+    "Korean": "탑 근처에 있어요",
+    "Transliteration": "Tap geuncheoe isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the lake?",
+    "English in Hangul": "웨어스 더 레이크?",
+    "Korean": "호수가 어디예요?",
+    "Transliteration": "Hosuga eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Take the roundabout",
+    "English in Hangul": "테이크 더 라운드어바웃",
+    "Korean": "로터리에서 가세요",
+    "Transliteration": "Roteori-eseo gaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s by the fountain",
+    "English in Hangul": "잇츠 바이 더 파운틴",
+    "Korean": "분수 옆에 있어요",
+    "Transliteration": "Bunsu yeope isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the cathedral?",
+    "English in Hangul": "웨어스 더 커씨드럴?",
+    "Korean": "대성당이 어디예요?",
+    "Transliteration": "Daeseongdangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go past the gate",
+    "English in Hangul": "고 패스트 더 게이트",
+    "Korean": "문에서 지나세요",
+    "Transliteration": "Mun-eseo jinaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s opposite the station",
+    "English in Hangul": "잇츠 오퍼짓 더 스테이션",
+    "Korean": "역 맞은편에 있어요",
+    "Transliteration": "Yeok majeunpyeone isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the square?",
+    "English in Hangul": "웨어스 더 스퀘어?",
+    "Korean": "광장이 어디예요?",
+    "Transliteration": "Gwangjangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Turn after the bridge",
+    "English in Hangul": "턴 애프터 더 브릿지",
+    "Korean": "다리 후에 돌세요",
+    "Transliteration": "Dari hue dolseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s close to the school",
+    "English in Hangul": "잇츠 클로즈 투 더 스쿨",
+    "Korean": "학교 근처에 있어요",
+    "Transliteration": "Hakgyo geuncheoe isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the parking lot?",
+    "English in Hangul": "웨어스 더 파킹 랏?",
+    "Korean": "주차장이 어디예요?",
+    "Transliteration": "Juchajangi eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Go through the park",
+    "English in Hangul": "고 스루 더 파크",
+    "Korean": "공원을 통과하세요",
+    "Transliteration": "Gongwoneul tonggwahaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s at the crossroad",
+    "English in Hangul": "잇츠 앳 더 크로스로드",
+    "Korean": "교차로에 있어요",
+    "Transliteration": "Gyocharoe isseoyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "Where’s the viewpoint?",
+    "English in Hangul": "웨어스 더 뷰포인트?",
+    "Korean": "전망대가 어디예요?",
+    "Transliteration": "Jeonmangdaega eodiyeyo?"
+  },
+  {
+    "Category": "Directions",
+    "English": "Follow the signs",
+    "English in Hangul": "팔로우 더 사인스",
+    "Korean": "표지판을 따라가세요",
+    "Transliteration": "Pyoipyeoneul ttaragaseyo"
+  },
+  {
+    "Category": "Directions",
+    "English": "It’s beside the park",
+    "English in Hangul": "잇츠 비사이드 더 파크",
+    "Korean": "공원 옆에 있어요",
+    "Transliteration": "Gongwon yeope isseoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m waking up",
+    "English in Hangul": "아임 웨이킹 업",
+    "Korean": "일어나요",
+    "Transliteration": "Ireonayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m going to sleep",
+    "English in Hangul": "아임 고잉 투 슬립",
+    "Korean": "잘 거예요",
+    "Transliteration": "Jal geoyeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m eating breakfast",
+    "English in Hangul": "아임 이팅 브렉퍼스트",
+    "Korean": "아침 먹어요",
+    "Transliteration": "Achim meogeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking a shower",
+    "English in Hangul": "아임 테이킹 어 샤워",
+    "Korean": "샤워해요",
+    "Transliteration": "Syawohaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m brushing my teeth",
+    "English in Hangul": "아임 브러싱 마이 티스",
+    "Korean": "이를 닦아요",
+    "Transliteration": "Ireul dakkayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m getting dressed",
+    "English in Hangul": "아임 겟팅 드레스트",
+    "Korean": "옷 입어요",
+    "Transliteration": "Ot ibeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m going to work",
+    "English in Hangul": "아임 고잉 투 워크",
+    "Korean": "일 시작해요",
+    "Transliteration": "Il sijakhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m cooking dinner",
+    "English in Hangul": "아임 쿠킹 디너",
+    "Korean": "저녁 요리해요",
+    "Transliteration": "Jeonyeok yorihaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m cleaning the house",
+    "English in Hangul": "아임 클리닝 더 하우스",
+    "Korean": "집 청소해요",
+    "Transliteration": "Jip cheongsohaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m doing laundry",
+    "English in Hangul": "아임 두잉 론드리",
+    "Korean": "빨래해요",
+    "Transliteration": "Ppallaehaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m watching TV",
+    "English in Hangul": "아임 와칭 티비",
+    "Korean": "TV 봐요",
+    "Transliteration": "TV bwayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m reading a book",
+    "English in Hangul": "아임 리딩 어 북",
+    "Korean": "책 읽어요",
+    "Transliteration": "Chaek ilgeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m exercising",
+    "English in Hangul": "아임 엑서사이징",
+    "Korean": "운동해요",
+    "Transliteration": "Undonghaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m drinking water",
+    "English in Hangul": "아임 드링킹 워터",
+    "Korean": "물 마셔요",
+    "Transliteration": "Mul masyeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m going shopping",
+    "English in Hangul": "아임 고잉 쇼핑",
+    "Korean": "쇼핑 가요",
+    "Transliteration": "Syoping gayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m calling a friend",
+    "English in Hangul": "아임 콜링 어 프렌드",
+    "Korean": "친구한테 전화해요",
+    "Transliteration": "Chinguhante jeonhwahaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m writing an email",
+    "English in Hangul": "아임 라이팅 앤 이메일",
+    "Korean": "이메일 써요",
+    "Transliteration": "Imeil sseoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m walking the dog",
+    "English in Hangul": "아임 워킹 더 독",
+    "Korean": "강아지 산책시켜요",
+    "Transliteration": "Gangaji sanchaeksikyeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking a break",
+    "English in Hangul": "아임 테이킹 어 브레이크",
+    "Korean": "휴식해요",
+    "Transliteration": "Hyusikhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m studying",
+    "English in Hangul": "아임 스터디잉",
+    "Korean": "공부해요",
+    "Transliteration": "Gongbuhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m making coffee",
+    "English in Hangul": "아임 메이킹 커피",
+    "Korean": "커피 내려요",
+    "Transliteration": "Keopi naeryeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m listening to music",
+    "English in Hangul": "아임 리스닝 투 뮤직",
+    "Korean": "음악 들어요",
+    "Transliteration": "Eumak deureoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m going to bed",
+    "English in Hangul": "아임 고잉 투 베드",
+    "Korean": "잠자리에 들어요",
+    "Transliteration": "Jamjarie deureoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m washing dishes",
+    "English in Hangul": "아임 워싱 디시즈",
+    "Korean": "설거지해요",
+    "Transliteration": "Seolgeojihaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m feeding the cat",
+    "English in Hangul": "아임 피딩 더 캣",
+    "Korean": "고양이 밥 줘요",
+    "Transliteration": "Goyangi bap jwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking a walk",
+    "English in Hangul": "아임 테이킹 어 워크",
+    "Korean": "산책해요",
+    "Transliteration": "Sanchaekhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m checking my phone",
+    "English in Hangul": "아임 체킹 마이 폰",
+    "Korean": "폰 확인해요",
+    "Transliteration": "Pon hwaginhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m driving to work",
+    "English in Hangul": "아임 드라이빙 투 워크",
+    "Korean": "운전해서 출근해요",
+    "Transliteration": "Unjeonhaeseo chulgeunhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m watering plants",
+    "English in Hangul": "아임 워터링 플랜츠",
+    "Korean": "식물에 물 줘요",
+    "Transliteration": "Singmure mul jwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m working out",
+    "English in Hangul": "아임 워킹 아웃",
+    "Korean": "운동해요",
+    "Transliteration": "Undonghaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m packing my bag",
+    "English in Hangul": "아임 패킹 마이 백",
+    "Korean": "가방 싸요",
+    "Transliteration": "Gabang ssayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m making a list",
+    "English in Hangul": "아임 메이킹 어 리스트",
+    "Korean": "목록 만들어요",
+    "Transliteration": "Mokrok mandeureoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m playing a game",
+    "English in Hangul": "아임 플레잉 어 게임",
+    "Korean": "게임해요",
+    "Transliteration": "Geimhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking medicine",
+    "English in Hangul": "아임 테이킹 메디신",
+    "Korean": "약 먹어요",
+    "Transliteration": "Yak meogeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m resting",
+    "English in Hangul": "아임 레스팅",
+    "Korean": "쉬어요",
+    "Transliteration": "Swieoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m organizing my desk",
+    "English in Hangul": "아임 오거나이징 마이 데스크",
+    "Korean": "책상 정리해요",
+    "Transliteration": "Chaeksang jeongrihaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m charging my phone",
+    "English in Hangul": "아임 차징 마이 폰",
+    "Korean": "폰 충전해요",
+    "Transliteration": "Pon chungjeonhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m eating lunch",
+    "English in Hangul": "아임 이팅 런치",
+    "Korean": "점심 먹어요",
+    "Transliteration": "Jeomsim meogeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m brushing my hair",
+    "English in Hangul": "아임 브러싱 마이 헤어",
+    "Korean": "머리 빗어요",
+    "Transliteration": "Meori bideoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m locking the door",
+    "English in Hangul": "아임 락킹 더 도어",
+    "Korean": "문 잠가요",
+    "Transliteration": "Mun jamgayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m turning off the light",
+    "English in Hangul": "아임 터닝 오프 더 라이트",
+    "Korean": "불 꺼요",
+    "Transliteration": "Bul kkeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m opening the window",
+    "English in Hangul": "아임 오프닝 더 윈도우",
+    "Korean": "창문 열어요",
+    "Transliteration": "Changmun yeoreoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m setting the alarm",
+    "English in Hangul": "아임 세팅 더 알람",
+    "Korean": "알람 맞춰요",
+    "Transliteration": "Allam matchwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m stretching",
+    "English in Hangul": "아임 스트레칭",
+    "Korean": "스트레칭해요",
+    "Transliteration": "Seuteurechinghaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m drinking tea",
+    "English in Hangul": "아임 드링킹 티",
+    "Korean": "차 마셔요",
+    "Transliteration": "Cha masyeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking a nap",
+    "English in Hangul": "아임 테이킹 어 냅",
+    "Korean": "낮잠 자요",
+    "Transliteration": "Natjam jayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m sweeping the floor",
+    "English in Hangul": "아임 스위핑 더 플로어",
+    "Korean": "바닥 쓸어요",
+    "Transliteration": "Badak sseureoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m texting someone",
+    "English in Hangul": "아임 텍스팅 썸원",
+    "Korean": "문자 보내요",
+    "Transliteration": "Munja bonaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m preparing food",
+    "English in Hangul": "아임 프리페어링 푸드",
+    "Korean": "음식 준비해요",
+    "Transliteration": "Eumsik junbihaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m doing homework",
+    "English in Hangul": "아임 두잉 홈워크",
+    "Korean": "숙제해요",
+    "Transliteration": "Sukjehaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m going for a run",
+    "English in Hangul": "아임 고잉 포 어 런",
+    "Korean": "달리기 가요",
+    "Transliteration": "Dalligi gayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking a bath",
+    "English in Hangul": "아임 테이킹 어 배스",
+    "Korean": "목욕해요",
+    "Transliteration": "Mokyokhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m checking the weather",
+    "English in Hangul": "아임 체킹 더 웨더",
+    "Korean": "날씨 확인해요",
+    "Transliteration": "Nalssi hwaginhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m ironing clothes",
+    "English in Hangul": "아임 아이어닝 클로즈",
+    "Korean": "옷 다려요",
+    "Transliteration": "Ot daryeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m feeding the fish",
+    "English in Hangul": "아임 피딩 더 피쉬",
+    "Korean": "물고기 밥 줘요",
+    "Transliteration": "Mulgogi bap jwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m vacuuming",
+    "English in Hangul": "아임 배큐밍",
+    "Korean": "청소기로 청소해요",
+    "Transliteration": "Cheongsogiro cheongsohaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m folding clothes",
+    "English in Hangul": "아임 폴딩 클로즈",
+    "Korean": "옷 접어요",
+    "Transliteration": "Ot jeobeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m making the bed",
+    "English in Hangul": "아임 메이킹 더 베드",
+    "Korean": "침대 정리해요",
+    "Transliteration": "Chimdae jeongrihaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m watering the garden",
+    "English in Hangul": "아임 워터링 더 가든",
+    "Korean": "정원에 물 줘요",
+    "Transliteration": "Jeongwone mul jwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking out trash",
+    "English in Hangul": "아임 테이킹 아웃 트래쉬",
+    "Korean": "쓰레기 버려요",
+    "Transliteration": "Sseuregi beoryeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m checking email",
+    "English in Hangul": "아임 체킹 이메일",
+    "Korean": "이메일 확인해요",
+    "Transliteration": "Imeil hwaginhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m meditating",
+    "English in Hangul": "아임 메디테이팅",
+    "Korean": "명상해요",
+    "Transliteration": "Myeongsanghaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m cutting my nails",
+    "English in Hangul": "아임 커팅 마이 네일스",
+    "Korean": "손톱 깎아요",
+    "Transliteration": "Sontop kkakkayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m feeding myself",
+    "English in Hangul": "아임 피딩 마이셀프",
+    "Korean": "밥 먹어요",
+    "Transliteration": "Bap meogeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m changing clothes",
+    "English in Hangul": "아임 체인징 클로즈",
+    "Korean": "옷 갈아입어요",
+    "Transliteration": "Ot garaibeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m turning on the fan",
+    "English in Hangul": "아임 터닝 온 더 팬",
+    "Korean": "선풍기 켜요",
+    "Transliteration": "Seonpung-gi kyeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m closing the door",
+    "English in Hangul": "아임 클로징 더 도어",
+    "Korean": "문 닫아요",
+    "Transliteration": "Mun dadayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m jogging",
+    "English in Hangul": "아임 조깅",
+    "Korean": "조깅해요",
+    "Transliteration": "Joginghaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m washing my face",
+    "English in Hangul": "아임 워싱 마이 페이스",
+    "Korean": "세수해요",
+    "Transliteration": "Sesuhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m combing my hair",
+    "English in Hangul": "아임 콤잉 마이 헤어",
+    "Korean": "머리 빗질해요",
+    "Transliteration": "Meori bitjilhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m drinking coffee",
+    "English in Hangul": "아임 드링킹 커피",
+    "Korean": "커피 마셔요",
+    "Transliteration": "Keopi masyeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m writing a note",
+    "English in Hangul": "아임 라이팅 어 노트",
+    "Korean": "메모 써요",
+    "Transliteration": "Memo sseoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m stretching my legs",
+    "English in Hangul": "아임 스트레칭 마이 레그스",
+    "Korean": "다리 풀어요",
+    "Transliteration": "Dari pureoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m watching a movie",
+    "English in Hangul": "아임 와칭 어 무비",
+    "Korean": "영화 봐요",
+    "Transliteration": "Yeonghwa bwayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m planting flowers",
+    "English in Hangul": "아임 플랜팅 플라워스",
+    "Korean": "꽃 심어요",
+    "Transliteration": "Kkot simeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m baking cookies",
+    "English in Hangul": "아임 베이킹 쿠키스",
+    "Korean": "쿠키 구워요",
+    "Transliteration": "Kuki guwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m cleaning windows",
+    "English in Hangul": "아임 클리닝 윈도우즈",
+    "Korean": "창문 닦아요",
+    "Transliteration": "Changmun dakkayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m drawing",
+    "English in Hangul": "아임 드로잉",
+    "Korean": "그림 그려요",
+    "Transliteration": "Geurim geuryeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m listening to the radio",
+    "English in Hangul": "아임 리스닝 투 더 라디오",
+    "Korean": "라디오 들어요",
+    "Transliteration": "Radio deureoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m doing yoga",
+    "English in Hangul": "아임 두잉 요가",
+    "Korean": "요가해요",
+    "Transliteration": "Yogahaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m shaving",
+    "English in Hangul": "아임 셰이빙",
+    "Korean": "면도해요",
+    "Transliteration": "Myeondohaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m putting on shoes",
+    "English in Hangul": "아임 풋팅 온 슈즈",
+    "Korean": "신발 신어요",
+    "Transliteration": "Sinbal sineoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m eating a snack",
+    "English in Hangul": "아임 이팅 어 스낵",
+    "Korean": "간식 먹어요",
+    "Transliteration": "Gansik meogeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m checking the time",
+    "English in Hangul": "아임 체킹 더 타임",
+    "Korean": "시간 확인해요",
+    "Transliteration": "Sigan hwaginhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m relaxing",
+    "English in Hangul": "아임 릴렉싱",
+    "Korean": "편히 쉬어요",
+    "Transliteration": "Pyeonhi swieoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m mowing the lawn",
+    "English in Hangul": "아임 모잉 더 론",
+    "Korean": "잔디 깎아요",
+    "Transliteration": "Jandi kkakkayo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m painting",
+    "English in Hangul": "아임 페인팅",
+    "Korean": "페인트칠해요",
+    "Transliteration": "Peinteuchilhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m shopping online",
+    "English in Hangul": "아임 쇼핑 온라인",
+    "Korean": "온라인 쇼핑해요",
+    "Transliteration": "Onlain syopinghaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m feeding the birds",
+    "English in Hangul": "아임 피딩 더 버즈",
+    "Korean": "새들에게 밥 줘요",
+    "Transliteration": "Saedeurege bap jwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m taking photos",
+    "English in Hangul": "아임 테이킹 포토스",
+    "Korean": "사진 찍어요",
+    "Transliteration": "Sajin jjigeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m knitting",
+    "English in Hangul": "아임 니팅",
+    "Korean": "뜨개질해요",
+    "Transliteration": "Tteugaejilhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m gardening",
+    "English in Hangul": "아임 가드닝",
+    "Korean": "정원 가꿔요",
+    "Transliteration": "Jeongwon gakkwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m playing music",
+    "English in Hangul": "아임 플레잉 뮤직",
+    "Korean": "음악 연주해요",
+    "Transliteration": "Eumak yeonjuhaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m fixing something",
+    "English in Hangul": "아임 픽싱 썸띵",
+    "Korean": "뭐든 고쳐요",
+    "Transliteration": "Mwodeun gochyeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m dancing",
+    "English in Hangul": "아임 댄싱",
+    "Korean": "춤춰요",
+    "Transliteration": "Chumchwoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m singing",
+    "English in Hangul": "아임 싱잉",
+    "Korean": "노래해요",
+    "Transliteration": "Noraehaeyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m planning my day",
+    "English in Hangul": "아임 플래닝 마이 데이",
+    "Korean": "하루 계획 세워요",
+    "Transliteration": "Haru gyehoek sewoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m waiting",
+    "English in Hangul": "아임 웨이팅",
+    "Korean": "기다려요",
+    "Transliteration": "Gidaryeoyo"
+  },
+  {
+    "Category": "Daily Activities",
+    "English": "I’m going home",
+    "English in Hangul": "아임 고잉 홈",
+    "Korean": "집에 가요",
+    "Transliteration": "Jibe gayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m happy",
+    "English in Hangul": "아임 해피",
+    "Korean": "행복해요",
+    "Transliteration": "Haengbokhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m sad",
+    "English in Hangul": "아임 새드",
+    "Korean": "슬퍼요",
+    "Transliteration": "Seulpeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m angry",
+    "English in Hangul": "아임 앵그리",
+    "Korean": "화나요",
+    "Transliteration": "Hwanayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m tired",
+    "English in Hangul": "아임 타이어드",
+    "Korean": "피곤해요",
+    "Transliteration": "Pigonhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m excited",
+    "English in Hangul": "아임 엑사이티드",
+    "Korean": "신나요",
+    "Transliteration": "Sinnayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m scared",
+    "English in Hangul": "아임 스케어드",
+    "Korean": "무서워요",
+    "Transliteration": "Museowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m nervous",
+    "English in Hangul": "아임 너버스",
+    "Korean": "긴장돼요",
+    "Transliteration": "Ginjangdwaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m calm",
+    "English in Hangul": "아임 캄",
+    "Korean": "평온해요",
+    "Transliteration": "Pyeongonhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m bored",
+    "English in Hangul": "아임 보어드",
+    "Korean": "지루해요",
+    "Transliteration": "Jiruhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m surprised",
+    "English in Hangul": "아임 서프라이즈드",
+    "Korean": "놀랐어요",
+    "Transliteration": "Nollasseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m confused",
+    "English in Hangul": "아임 컨퓨즈드",
+    "Korean": "혼란스러워요",
+    "Transliteration": "Hollanseureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m stressed",
+    "English in Hangul": "아임 스트레스트",
+    "Korean": "스트레스 받아요",
+    "Transliteration": "Seuteureseu badayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m proud",
+    "English in Hangul": "아임 프라우드",
+    "Korean": "자랑스러워요",
+    "Transliteration": "Jarangseureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m worried",
+    "English in Hangul": "아임 워리드",
+    "Korean": "걱정돼요",
+    "Transliteration": "Geokjeongdwaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m relaxed",
+    "English in Hangul": "아임 릴렉스트",
+    "Korean": "편안해요",
+    "Transliteration": "Pyeonanhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m lonely",
+    "English in Hangul": "아임 론리",
+    "Korean": "외로워요",
+    "Transliteration": "Oerowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m jealous",
+    "English in Hangul": "아임 젤러스",
+    "Korean": "질투나요",
+    "Transliteration": "Jiltunayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m hopeful",
+    "English in Hangul": "아임 호프풀",
+    "Korean": "희망적이에요",
+    "Transliteration": "Huimangjeog-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m annoyed",
+    "English in Hangul": "아임 어노이드",
+    "Korean": "짜증나요",
+    "Transliteration": "Jjajeungnayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m grateful",
+    "English in Hangul": "아임 그레이트풀",
+    "Korean": "고마워요",
+    "Transliteration": "Gomawoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m shy",
+    "English in Hangul": "아임 샤이",
+    "Korean": "부끄러워요",
+    "Transliteration": "Bukkeureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m in love",
+    "English in Hangul": "아임 인 러브",
+    "Korean": "사랑에 빠졌어요",
+    "Transliteration": "Sarange ppajyeosseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m frustrated",
+    "English in Hangul": "아임 프러스트레이티드",
+    "Korean": "답답해요",
+    "Transliteration": "Dapdapaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m embarrassed",
+    "English in Hangul": "아임 엠배러스트",
+    "Korean": "창피해요",
+    "Transliteration": "Changpihaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m curious",
+    "English in Hangul": "아임 큐리어스",
+    "Korean": "궁금해요",
+    "Transliteration": "Gunggeumhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m disappointed",
+    "English in Hangul": "아임 디서포인티드",
+    "Korean": "실망했어요",
+    "Transliteration": "Silmanghaesseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m energetic",
+    "English in Hangul": "아임 에너제틱",
+    "Korean": "활기차요",
+    "Transliteration": "Hwalgi chayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m upset",
+    "English in Hangul": "아임 업셋",
+    "Korean": "속상해요",
+    "Transliteration": "Soksanghaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m content",
+    "English in Hangul": "아임 컨텐트",
+    "Korean": "만족해요",
+    "Transliteration": "Manjokhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m anxious",
+    "English in Hangul": "아임 앵크셔스",
+    "Korean": "불안해요",
+    "Transliteration": "Buranhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m cheerful",
+    "English in Hangul": "아임 치어풀",
+    "Korean": "명랑해요",
+    "Transliteration": "Myeongnanghaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m depressed",
+    "English in Hangul": "아임 디프레스트",
+    "Korean": "우울해요",
+    "Transliteration": "Uulhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m thrilled",
+    "English in Hangul": "아임 스릴드",
+    "Korean": "너무 기뻐요",
+    "Transliteration": "Neomu gippeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m exhausted",
+    "English in Hangul": "아임 엑소스티드",
+    "Korean": "지쳤어요",
+    "Transliteration": "Jichyeosseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m relieved",
+    "English in Hangul": "아임 릴리브드",
+    "Korean": "안심했어요",
+    "Transliteration": "Ansimhaesseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m guilty",
+    "English in Hangul": "아임 길티",
+    "Korean": "죄책감 느껴요",
+    "Transliteration": "Joechaekgam neukkyeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m confident",
+    "English in Hangul": "아임 컨피던트",
+    "Korean": "자신 있어요",
+    "Transliteration": "Jasin isseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m ashamed",
+    "English in Hangul": "아임 어셰임드",
+    "Korean": "부끄럽네요",
+    "Transliteration": "Bukkeureopneyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m inspired",
+    "English in Hangul": "아임 인스파이어드",
+    "Korean": "영감 받았어요",
+    "Transliteration": "Yeonggam badasseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m overwhelmed",
+    "English in Hangul": "아임 오버웰드",
+    "Korean": "벅차요",
+    "Transliteration": "Beokchayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m peaceful",
+    "English in Hangul": "아임 피스풀",
+    "Korean": "평화로워요",
+    "Transliteration": "Pyeonghwarowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m hurt",
+    "English in Hangul": "아임 허트",
+    "Korean": "상처받았어요",
+    "Transliteration": "Sangcheobadasseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m amused",
+    "English in Hangul": "아임 어뮤즈드",
+    "Korean": "재미있어요",
+    "Transliteration": "Jaemiisseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m impatient",
+    "English in Hangul": "아임 임페이션트",
+    "Korean": "참을 수 없어요",
+    "Transliteration": "Chameul su eopseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m optimistic",
+    "English in Hangul": "아임 옵티미스틱",
+    "Korean": "낙관적이에요",
+    "Transliteration": "Nakkwanjeog-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m pessimistic",
+    "English in Hangul": "아임 페시미스틱",
+    "Korean": "비관적이에요",
+    "Transliteration": "Bigwanjeog-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m sleepy",
+    "English in Hangul": "아임 슬리피",
+    "Korean": "졸려요",
+    "Transliteration": "Jollyeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m shocked",
+    "English in Hangul": "아임 쇼크트",
+    "Korean": "충격받았어요",
+    "Transliteration": "Chung-gyeokbadasseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m satisfied",
+    "English in Hangul": "아임 새티스파이드",
+    "Korean": "만족스러워요",
+    "Transliteration": "Manjokseureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m terrified",
+    "English in Hangul": "아임 테리파이드",
+    "Korean": "겁나요",
+    "Transliteration": "Geomna yo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m refreshed",
+    "English in Hangul": "아임 리프레쉬드",
+    "Korean": "상쾌해요",
+    "Transliteration": "Sangkwaehaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m uneasy",
+    "English in Hangul": "아임 언이지",
+    "Korean": "불편해요",
+    "Transliteration": "Bulpyeonhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m joyful",
+    "English in Hangul": "아임 조이풀",
+    "Korean": "기뻐요",
+    "Transliteration": "Gippeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m irritated",
+    "English in Hangul": "아임 이리테이티드",
+    "Korean": "짜증스러워요",
+    "Transliteration": "Jjajeungseureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m hopeful",
+    "English in Hangul": "아임 호프풀",
+    "Korean": "희망이 있어요",
+    "Transliteration": "Huimangi isseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m miserable",
+    "English in Hangul": "아임 미저러블",
+    "Korean": "비참해요",
+    "Transliteration": "Bichamhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m delighted",
+    "English in Hangul": "아임 딜라이티드",
+    "Korean": "기쁘네요",
+    "Transliteration": "Gippeuneyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m tense",
+    "English in Hangul": "아임 텐스",
+    "Korean": "긴장했어요",
+    "Transliteration": "Ginjanghaesseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m glad",
+    "English in Hangul": "아임 글래드",
+    "Korean": "다행이에요",
+    "Transliteration": "Dahaeng-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m heartbroken",
+    "English in Hangul": "아임 하트브로큰",
+    "Korean": "마음이 아파요",
+    "Transliteration": "Ma-eumi apayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m playful",
+    "English in Hangul": "아임 플레이풀",
+    "Korean": "장난기 많아요",
+    "Transliteration": "Jangnangi manayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m restless",
+    "English in Hangul": "아임 레스트리스",
+    "Korean": "불안해요",
+    "Transliteration": "Buranhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m thrilled",
+    "English in Hangul": "아임 스릴드",
+    "Korean": "설레요",
+    "Transliteration": "Seolleyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m empty",
+    "English in Hangul": "아임 엠프티",
+    "Korean": "허전해요",
+    "Transliteration": "Heojeonhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m warm",
+    "English in Hangul": "아임 웜",
+    "Korean": "따뜻해요",
+    "Transliteration": "Ttatteutae yo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m cold",
+    "English in Hangul": "아임 콜드",
+    "Korean": "추워요",
+    "Transliteration": "Chuwoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m alive",
+    "English in Hangul": "아임 얼라이브",
+    "Korean": "살아있어요",
+    "Transliteration": "Sara isseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m numb",
+    "English in Hangul": "아임 넘",
+    "Korean": "감각이 없어요",
+    "Transliteration": "Gamgagi eopseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m silly",
+    "English in Hangul": "아임 실리",
+    "Korean": "바보 같아요",
+    "Transliteration": "Babo gatayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m eager",
+    "English in Hangul": "아임 이거",
+    "Korean": "열정적이에요",
+    "Transliteration": "Yeoljeongjeog-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m lazy",
+    "English in Hangul": "아임 레이지",
+    "Korean": "게을러요",
+    "Transliteration": "Geeulleoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m bitter",
+    "English in Hangul": "아임 비터",
+    "Korean": "씁쓸해요",
+    "Transliteration": "Sseupsseulhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m touched",
+    "English in Hangul": "아임 터치드",
+    "Korean": "감동했어요",
+    "Transliteration": "Gamdonghaesseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m foolish",
+    "English in Hangul": "아임 풀리쉬",
+    "Korean": "어리석어요",
+    "Transliteration": "Eoriseogeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m brave",
+    "English in Hangul": "아임 브레이브",
+    "Korean": "용감해요",
+    "Transliteration": "Yonggamhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m weak",
+    "English in Hangul": "아임 윅",
+    "Korean": "약해요",
+    "Transliteration": "Yakhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m strong",
+    "English in Hangul": "아임 스트롱",
+    "Korean": "강해요",
+    "Transliteration": "Ganghaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m silly",
+    "English in Hangul": "아임 실리",
+    "Korean": "우스워요",
+    "Transliteration": "Useuwoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m generous",
+    "English in Hangul": "아임 제너러스",
+    "Korean": "관대해요",
+    "Transliteration": "Gwandaehaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m hesitant",
+    "English in Hangul": "아임 헤지턴트",
+    "Korean": "망설여요",
+    "Transliteration": "Mangseoryeoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m motivated",
+    "English in Hangul": "아임 모티베이티드",
+    "Korean": "동기부여 됐어요",
+    "Transliteration": "Donggibuye dwaesseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m discouraged",
+    "English in Hangul": "아임 디스커리지드",
+    "Korean": "낙심했어요",
+    "Transliteration": "Naksimhaesseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m refreshed",
+    "English in Hangul": "아임 리프레쉬드",
+    "Korean": "새로워졌어요",
+    "Transliteration": "Saerowojyeosseoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m insecure",
+    "English in Hangul": "아임 인시큐어",
+    "Korean": "불안정해요",
+    "Transliteration": "Buranjeonghaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m cheerful",
+    "English in Hangul": "아임 치어풀",
+    "Korean": "유쾌해요",
+    "Transliteration": "Yukwaehaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m moody",
+    "English in Hangul": "아임 무디",
+    "Korean": "기분이 변덕스러워요",
+    "Transliteration": "Gibuni byeondeokseureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m grateful",
+    "English in Hangul": "아임 그레이트풀",
+    "Korean": "감사해요",
+    "Transliteration": "Gamsahaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m envious",
+    "English in Hangul": "아임 엔비어스",
+    "Korean": "부러워요",
+    "Transliteration": "Bureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m refreshed",
+    "English in Hangul": "아임 리프레쉬드",
+    "Korean": "기운 나요",
+    "Transliteration": "Giun nayo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m lost",
+    "English in Hangul": "아임 로스트",
+    "Korean": "길을 잃은 기분이에요",
+    "Transliteration": "Gireul ilheun gibun-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m comfortable",
+    "English in Hangul": "아임 컴퍼터블",
+    "Korean": "편해요",
+    "Transliteration": "Pyeonhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m uneasy",
+    "English in Hangul": "아임 언이지",
+    "Korean": "불안해요",
+    "Transliteration": "Buranhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m adventurous",
+    "English in Hangul": "아임 어드벤처러스",
+    "Korean": "모험적이에요",
+    "Transliteration": "Moheomjeog-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m suspicious",
+    "English in Hangul": "아임 서스피셔스",
+    "Korean": "의심스러워요",
+    "Transliteration": "Uisimseureowoyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m passionate",
+    "English in Hangul": "아임 패셔닛",
+    "Korean": "열정적이에요",
+    "Transliteration": "Yeoljeongjeog-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m helpless",
+    "English in Hangul": "아임 헬프리스",
+    "Korean": "무력해요",
+    "Transliteration": "Muryeokhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m thrilled",
+    "English in Hangul": "아임 스릴드",
+    "Korean": "흥분돼요",
+    "Transliteration": "Heungbundaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m desperate",
+    "English in Hangul": "아임 데스퍼릿",
+    "Korean": "절박해요",
+    "Transliteration": "Jeolbakhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m affectionate",
+    "English in Hangul": "아임 어펙셔닛",
+    "Korean": "애정 어린이에요",
+    "Transliteration": "Aejeong eorin-ieyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m sympathetic",
+    "English in Hangul": "아임 심퍼세틱",
+    "Korean": "공감해요",
+    "Transliteration": "Gonggamhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m overjoyed",
+    "English in Hangul": "아임 오버조이드",
+    "Korean": "너무 행복해요",
+    "Transliteration": "Neomu haengbokhaeyo"
+  },
+  {
+    "Category": "Emotions & Feelings",
+    "English": "I’m regretful",
+    "English in Hangul": "아임 리그렛풀",
+    "Korean": "후회돼요",
+    "Transliteration": "Huhoedwaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your name?",
+    "English in Hangul": "왓츠 유어 네임?",
+    "Korean": "이름이 뭐예요?",
+    "Transliteration": "Ireumi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Nice to meet you",
+    "English in Hangul": "나이스 투 밋 유",
+    "Korean": "만나서 반갑습니다",
+    "Transliteration": "Mannaseo bangapseumnida"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How are you?",
+    "English in Hangul": "하우 아 유?",
+    "Korean": "잘 지내세요?",
+    "Transliteration": "Jal jinaeseyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Where are you from?",
+    "English in Hangul": "웨어 아 유 프롬?",
+    "Korean": "어디 출신이세요?",
+    "Transliteration": "Eodi chulsiniseyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What do you do?",
+    "English in Hangul": "왓 두 유 두?",
+    "Korean": "무슨 일을 하세요?",
+    "Transliteration": "Museun ireul haseyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I join you?",
+    "English in Hangul": "캔 아이 조인 유?",
+    "Korean": "함께해도 될까요?",
+    "Transliteration": "Hamkkehaedo doelkkayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s hang out",
+    "English in Hangul": "렛츠 행 아웃",
+    "Korean": "같이 놀아요",
+    "Transliteration": "Gachi norayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I like your style",
+    "English in Hangul": "아이 라이크 유어 스타일",
+    "Korean": "스타일 좋아요",
+    "Transliteration": "Seutail joayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your day?",
+    "English in Hangul": "하우즈 유어 데이?",
+    "Korean": "오늘 기분이 어때요?",
+    "Transliteration": "Oneul gibuni eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "See you later",
+    "English in Hangul": "씨 유 레이터",
+    "Korean": "나중에 봐요",
+    "Transliteration": "Najunge bwayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s new?",
+    "English in Hangul": "왓츠 뉴?",
+    "Korean": "새 소식 있어요?",
+    "Transliteration": "Sae sosik isseoyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re funny",
+    "English in Hangul": "유어 퍼니",
+    "Korean": "웃겨요",
+    "Transliteration": "Utgyeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s talk",
+    "English in Hangul": "렛츠 토크",
+    "Korean": "이야기합시다",
+    "Transliteration": "Iyagihapsida"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I missed you",
+    "English in Hangul": "아이 미스트 유",
+    "Korean": "보고 싶었어요",
+    "Transliteration": "Bogo sipeosseoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your family?",
+    "English in Hangul": "하우즈 유어 패밀리?",
+    "Korean": "가족이 잘 지내요?",
+    "Transliteration": "Gajogi jal jinaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re so kind",
+    "English in Hangul": "유어 소 카인드",
+    "Korean": "정말 친절해요",
+    "Transliteration": "Jeongmal chinjeolhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s grab a coffee",
+    "English in Hangul": "렛츠 그래브 어 커피",
+    "Korean": "커피 마시러 가요",
+    "Transliteration": "Keopi masireo gayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What do you like?",
+    "English in Hangul": "왓 두 유 라이크?",
+    "Korean": "뭐 좋아해요?",
+    "Transliteration": "Mwo joahaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I’ll call you",
+    "English in Hangul": "아일 콜 유",
+    "Korean": "전화할게요",
+    "Transliteration": "Jeonhwahalgeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You look great",
+    "English in Hangul": "유 룩 그레이트",
+    "Korean": "멋져 보이세요",
+    "Transliteration": "Meotjyeo boiseyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can we meet again?",
+    "English in Hangul": "캔 위 밋 어게인?",
+    "Korean": "다시 만날 수 있나요?",
+    "Transliteration": "Dasi mannal su innayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your hobby?",
+    "English in Hangul": "왓츠 유어 하비?",
+    "Korean": "취미가 뭐예요?",
+    "Transliteration": "Chwimiga mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I enjoy your company",
+    "English in Hangul": "아이 엔조이 유어 컴퍼니",
+    "Korean": "함께 있어서 좋아요",
+    "Transliteration": "Hamkke isseoseo joayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s keep in touch",
+    "English in Hangul": "렛츠 킵 인 터치",
+    "Korean": "연락 유지합시다",
+    "Transliteration": "Yeollak yujihapsida"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re interesting",
+    "English in Hangul": "유어 인터레스팅",
+    "Korean": "흥미로워요",
+    "Transliteration": "Heungmirowoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s work?",
+    "English in Hangul": "하우즈 워크?",
+    "Korean": "일怎么样?",
+    "Transliteration": "Il eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s go out",
+    "English in Hangul": "렛츠 고 아웃",
+    "Korean": "밖에서 놀아요",
+    "Transliteration": "Bakkeseo norayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I’m glad we met",
+    "English in Hangul": "아임 글래드 위 멧",
+    "Korean": "만나서 기뻐요",
+    "Transliteration": "Mannaseo gippeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite food?",
+    "English in Hangul": "왓츠 유어 페이버릿 푸드?",
+    "Korean": "좋아하는 음식이 뭐예요?",
+    "Transliteration": "Joahaneun eumsigi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re amazing",
+    "English in Hangul": "유어 어메이징",
+    "Korean": "대단해요",
+    "Transliteration": "Daedanhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I text you?",
+    "English in Hangul": "캔 아이 텍스트 유?",
+    "Korean": "문자 보내도 되나요?",
+    "Transliteration": "Munja bonaedo doenayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s have fun",
+    "English in Hangul": "렛츠 해브 펀",
+    "Korean": "즐겁게 지내요",
+    "Transliteration": "Jeulgeopge jinaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s everything?",
+    "English in Hangul": "하우즈 에브리띵?",
+    "Korean": "모든 게 어때요?",
+    "Transliteration": "Modeun ge eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re cool",
+    "English in Hangul": "유어 쿨",
+    "Korean": "멋져요",
+    "Transliteration": "Meotjyeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your plan?",
+    "English in Hangul": "왓츠 유어 플랜?",
+    "Korean": "계획이 뭐예요?",
+    "Transliteration": "Gyehoegi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I’d love to chat",
+    "English in Hangul": "아이드 러브 투 챗",
+    "Korean": "이야기하고 싶어요",
+    "Transliteration": "Iyagihago sipeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re so nice",
+    "English in Hangul": "유어 소 나이스",
+    "Korean": "너무 좋아요",
+    "Transliteration": "Neomu joayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s meet up",
+    "English in Hangul": "렛츠 밋 업",
+    "Korean": "만나요",
+    "Transliteration": "Mannayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What do you think?",
+    "English in Hangul": "왓 두 유 씽크?",
+    "Korean": "어떻게 생각해요?",
+    "Transliteration": "Eotteoke saenggakhaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I feel comfortable with you",
+    "English in Hangul": "아이 필 컴퍼터블 윗 유",
+    "Korean": "너랑 있으면 편해요",
+    "Transliteration": "Neorang isseumyeon pyeonhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can we be friends?",
+    "English in Hangul": "캔 위 비 프렌즈?",
+    "Korean": "친구가 될 수 있나요?",
+    "Transliteration": "Chinguga doel su innayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite movie?",
+    "English in Hangul": "왓츠 유어 페이버릿 무비?",
+    "Korean": "좋아하는 영화가 뭐예요?",
+    "Transliteration": "Joahaneun yeonghwaga mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re awesome",
+    "English in Hangul": "유어 어섬",
+    "Korean": "최고예요",
+    "Transliteration": "Choegoyeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s go somewhere",
+    "English in Hangul": "렛츠 고 썸웨어",
+    "Korean": "어디 가요",
+    "Transliteration": "Eodi gayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How was your weekend?",
+    "English in Hangul": "하우 와즈 유어 위켄드?",
+    "Korean": "주말 어땠어요?",
+    "Transliteration": "Jumal eottaesseoyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re so smart",
+    "English in Hangul": "유어 소 스마트",
+    "Korean": "똑똑해요",
+    "Transliteration": "Ttokttokhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I visit you?",
+    "English in Hangul": "캔 아이 비짓 유?",
+    "Korean": "놀러 가도 되나요?",
+    "Transliteration": "Nolleogado doenayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your dream?",
+    "English in Hangul": "왓츠 유어 드림?",
+    "Korean": "꿈이 뭐예요?",
+    "Transliteration": "Kkumi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I like talking to you",
+    "English in Hangul": "아이 라이크 토킹 투 유",
+    "Korean": "너랑 이야기하는 게 좋아요",
+    "Transliteration": "Neorang iyagihaneun ge joayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s eat together",
+    "English in Hangul": "렛츠 잇 투게더",
+    "Korean": "같이 밥 먹어요",
+    "Transliteration": "Gachi bap meogeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How do you feel?",
+    "English in Hangul": "하우 두 유 필?",
+    "Korean": "기분이 어때요?",
+    "Transliteration": "Gibuni eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re talented",
+    "English in Hangul": "유어 탤런티드",
+    "Korean": "재능 있어요",
+    "Transliteration": "Jae-neung isseoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I sit here?",
+    "English in Hangul": "캔 아이 싯 히어?",
+    "Korean": "여기 앉아도 되나요?",
+    "Transliteration": "Yeogi anjado doenayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite song?",
+    "English in Hangul": "왓츠 유어 페이버릿 송?",
+    "Korean": "좋아하는 노래가 뭐예요?",
+    "Transliteration": "Joahaneun noraega mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re inspiring",
+    "English in Hangul": "유어 인스파이어링",
+    "Korean": "영감 줘요",
+    "Transliteration": "Yeonggam jwoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s take a walk",
+    "English in Hangul": "렛츠 테이크 어 워크",
+    "Korean": "산책 가요",
+    "Transliteration": "Sanchaek gayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your week?",
+    "English in Hangul": "하우즈 유어 위크?",
+    "Korean": "이번 주 어땠어요?",
+    "Transliteration": "Ibeon ju eottaesseoyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re friendly",
+    "English in Hangul": "유어 프렌들리",
+    "Korean": "친근해요",
+    "Transliteration": "Chingeunhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I ask you something?",
+    "English in Hangul": "캔 아이 애스크 유 썸띵?",
+    "Korean": "물어보고 싶은 게 있어요",
+    "Transliteration": "Mureobogo sipeun ge isseoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite place?",
+    "English in Hangul": "왓츠 유어 페이버릿 플레이스?",
+    "Korean": "좋아하는 장소가 어디예요?",
+    "Transliteration": "Joahaneun jangsoga eodiyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I appreciate you",
+    "English in Hangul": "아이 어프리시에이트 유",
+    "Korean": "고마워요",
+    "Transliteration": "Gomawoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s watch a movie",
+    "English in Hangul": "렛츠 와치 어 무비",
+    "Korean": "영화 봐요",
+    "Transliteration": "Yeonghwa bwayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s life?",
+    "English in Hangul": "하우즈 라이프?",
+    "Korean": "삶이 어때요?",
+    "Transliteration": "Salmi eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re charming",
+    "English in Hangul": "유어 차밍",
+    "Korean": "매력 있어요",
+    "Transliteration": "Maeryeok isseoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I help you?",
+    "English in Hangul": "캔 아이 헬프 유?",
+    "Korean": "도와줄까요?",
+    "Transliteration": "Dowajulkka yo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite book?",
+    "English in Hangul": "왓츠 유어 페이버릿 북?",
+    "Korean": "좋아하는 책이 뭐예요?",
+    "Transliteration": "Joahaneun chaegi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re thoughtful",
+    "English in Hangul": "유어 쏘트풀",
+    "Korean": "사려 깊어요",
+    "Transliteration": "Saryeo gipeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s play a game",
+    "English in Hangul": "렛츠 플레이 어 게임",
+    "Korean": "게임해요",
+    "Transliteration": "Geimhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your mood?",
+    "English in Hangul": "하우즈 유어 무드?",
+    "Korean": "기분이 어때요?",
+    "Transliteration": "Gibuni eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re generous",
+    "English in Hangul": "유어 제너러스",
+    "Korean": "관대해요",
+    "Transliteration": "Gwandaehaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can we talk later?",
+    "English in Hangul": "캔 위 토크 레이터?",
+    "Korean": "나중에 이야기할 수 있나요?",
+    "Transliteration": "Najunge iyagihal su innayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite color?",
+    "English in Hangul": "왓츠 유어 페이버릿 컬러?",
+    "Korean": "좋아하는 색이 뭐예요?",
+    "Transliteration": "Joahaneun saegi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "I respect you",
+    "English in Hangul": "아이 리스펙트 유",
+    "Korean": "존경해요",
+    "Transliteration": "Jongyeonghaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s go dancing",
+    "English in Hangul": "렛츠 고 댄싱",
+    "Korean": "춤추러 가요",
+    "Transliteration": "Chumchureo gayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your health?",
+    "English in Hangul": "하우즈 유어 헬스?",
+    "Korean": "건강이 어때요?",
+    "Transliteration": "Geongangi eottaeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re unique",
+    "English in Hangul": "유어 유니크",
+    "Korean": "독특해요",
+    "Transliteration": "Dokteukhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I borrow this?",
+    "English in Hangul": "캔 아이 보로우 디스?",
+    "Korean": "이거 빌릴 수 있나요?",
+    "Transliteration": "Igeo billil su innayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite sport?",
+    "English in Hangul": "왓츠 유어 페이버릿 스포트?",
+    "Korean": "좋아하는 스포츠가 뭐예요?",
+    "Transliteration": "Joahaneun seupocheuga mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re supportive",
+    "English in Hangul": "유어 서포티브",
+    "Korean": "도움이 돼요",
+    "Transliteration": "Doumi dwaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s share a meal",
+    "English in Hangul": "렛츠 셰어 어 밀",
+    "Korean": "같이 밥 나눠 먹어요",
+    "Transliteration": "Gachi bap nanwo meogeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your morning?",
+    "English in Hangul": "하우즈 유어 모닝?",
+    "Korean": "아침 어땠어요?",
+    "Transliteration": "Achim eottaesseoyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re honest",
+    "English in Hangul": "유어 아너스트",
+    "Korean": "솔직해요",
+    "Transliteration": "Soljikhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I invite you?",
+    "English in Hangul": "캔 아이 인바이트 유?",
+    "Korean": "초대해도 되나요?",
+    "Transliteration": "Chodaehaedo doenayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite game?",
+    "English in Hangul": "왓츠 유어 페이버릿 게임?",
+    "Korean": "좋아하는 게임이 뭐예요?",
+    "Transliteration": "Joahaneun geimi mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re reliable",
+    "English in Hangul": "유어 릴라이어블",
+    "Korean": "믿음직해요",
+    "Transliteration": "Mideumjikhaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s take a photo",
+    "English in Hangul": "렛츠 테이크 어 포토",
+    "Korean": "사진 찍어요",
+    "Transliteration": "Sajin jjigeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your evening?",
+    "English in Hangul": "하우즈 유어 이브닝?",
+    "Korean": "저녁 어땠어요?",
+    "Transliteration": "Jeonyeok eottaesseoyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re creative",
+    "English in Hangul": "유어 크리에이티브",
+    "Korean": "창의적이에요",
+    "Transliteration": "Chang-uijeog-ieyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I ask a favor?",
+    "English in Hangul": "캔 아이 애스크 어 페이버?",
+    "Korean": "부탁 하나 해도 되나요?",
+    "Transliteration": "Butak hana haedo doenayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite drink?",
+    "English in Hangul": "왓츠 유어 페이버릿 드링크?",
+    "Korean": "좋아하는 음료가 뭐예요?",
+    "Transliteration": "Joahaneun eumryoga mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re patient",
+    "English in Hangul": "유어 페이션트",
+    "Korean": "참을성 있어요",
+    "Transliteration": "Chameulseong isseoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s go shopping",
+    "English in Hangul": "렛츠 고 쇼핑",
+    "Korean": "쇼핑 가요",
+    "Transliteration": "Syoping gayo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How’s your night?",
+    "English in Hangul": "하우즈 유어 나이트?",
+    "Korean": "밤 어땠어요?",
+    "Transliteration": "Bam eottaesseoyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re polite",
+    "English in Hangul": "유어 폴라이트",
+    "Korean": "예의 바르세요",
+    "Transliteration": "Yeui bareuseyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can I share something?",
+    "English in Hangul": "캔 아이 셰어 썸띵?",
+    "Korean": "뭐 좀 나눠도 되나요?",
+    "Transliteration": "Mwo jom nanwodo doenayo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "What’s your favorite animal?",
+    "English in Hangul": "왓츠 유어 페이버릿 애니멀?",
+    "Korean": "좋아하는 동물이 뭐예요?",
+    "Transliteration": "Joahaneun dongmuri mwoyeyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re wonderful",
+    "English in Hangul": "유어 원더풀",
+    "Korean": "멋져요",
+    "Transliteration": "Meotjyeoyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Let’s celebrate",
+    "English in Hangul": "렛츠 셀러브레이트",
+    "Korean": "축하해요",
+    "Transliteration": "Chukahaeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "How do you relax?",
+    "English in Hangul": "하우 두 유 릴렉스?",
+    "Korean": "어떻게 쉬세요?",
+    "Transliteration": "Eotteoke swiseyo?"
+  },
+  {
+    "Category": "Socializing",
+    "English": "You’re a good friend",
+    "English in Hangul": "유어 어 굿 프렌드",
+    "Korean": "좋은 친구예요",
+    "Transliteration": "Joeun chinguyeyo"
+  },
+  {
+    "Category": "Socializing",
+    "English": "Can we hang out tomorrow?",
+    "English in Hangul": "캔 위 행 아웃 투모로우?",
+    "Korean": "내일 같이 놀 수 있나요?",
+    "Transliteration": "Naeil gachi nol su innayo?"
+  }
+]
